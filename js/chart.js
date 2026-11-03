@@ -282,9 +282,9 @@
         processedData.cleanedHidden
       ];
       seriesConfigs.push({
-        label: 'Raw (Unfiltered)',
-        stroke: t.waveRaw,
-        width: 1.2,
+        label: 'Raw (removed in orange)',
+        stroke: '#f97316',
+        width: 1.8,
         points: { show: false }
       });
       seriesConfigs.push({

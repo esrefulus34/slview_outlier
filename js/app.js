@@ -8,6 +8,8 @@
     stationName: 'Erdek (Marmara Sea, Turkey)',
     sensorName: 'rad(m)',
     rawData: [], // array of [timeStr, val]
+    baseData: [], // last loaded dataset, unmodified by glitch injection
+    baseName: '',
     params: {
       k: 3.0,
       percentile: 90,
@@ -43,10 +45,14 @@
       state.rawData = window.DEFAULT_DATA.slice();
       if (window.DEFAULT_STATION) state.stationName = window.DEFAULT_STATION;
       if (window.DEFAULT_SENSOR) state.sensorName = window.DEFAULT_SENSOR;
+      state.baseData = state.rawData.slice();
+      state.baseName = state.stationName;
       updateUI();
     } else {
       // Fallback sample generator if file not found
       state.rawData = generateSyntheticTidalData();
+      state.baseData = state.rawData.slice();
+      state.baseName = state.stationName;
       updateUI();
     }
   }
@@ -280,8 +286,9 @@
     });
 
     document.getElementById('btn-reset-data').addEventListener('click', function () {
-      if (window.DEFAULT_DATA) {
-        state.rawData = window.DEFAULT_DATA.slice();
+      if (state.baseData.length > 0) {
+        state.rawData = state.baseData.slice();
+        state.stationName = state.baseName;
         updateUI();
       }
     });
@@ -533,7 +540,7 @@
     });
   }
 
-  function parseAndLoadRawText(content, sourceName) {
+  function parseAndLoadRawText(content, sourceName, silent) {
     var rows = [];
     // 1. Check if HTML table with <tr><td>
     if (content.indexOf('<tr') !== -1 && content.indexOf('<td') !== -1) {
@@ -565,10 +572,15 @@
     if (rows.length > 0) {
       state.rawData = rows;
       state.stationName = sourceName || 'Custom Dataset';
+      state.baseData = rows.slice();
+      state.baseName = state.stationName;
       updateUI();
-    } else {
+      return true;
+    }
+    if (!silent) {
       alert('Could not parse any valid date/time and numeric sea level rows from the input.');
     }
+    return false;
   }
 
   async function fetchIOCStation(code, period, queryDate, modal) {
@@ -576,73 +588,46 @@
     var displayName = selectedStation.name ? (selectedStation.name + ' (' + selectedStation.country + ')') : code.toUpperCase();
     var dateLabel = queryDate ? ' [Date: ' + queryDate + ']' : ' [Latest 24h]';
 
+    function showError(title, detail) {
+      statusEl.innerHTML =
+        '<div style="color:var(--danger);margin-bottom:6px;">' + title + '</div>' +
+        '<div style="font-size:11px;color:var(--fg-muted);">' + detail + '</div>';
+      statusEl.hidden = false;
+    }
+
     statusEl.innerHTML = '<span style="color:var(--primary)">Fetching station <strong>' + displayName + '</strong>' + dateLabel + '...</span>';
     statusEl.hidden = false;
 
-    // 1. Try local proxy route first if running from http server (python3 main.py)
-    var localProxyUrl = '/api/data?code=' + encodeURIComponent(code) + '&period=' + encodeURIComponent(period);
+    // Data is fetched server-side by main.py (python3 main.py)
+    var url = '/api/data?code=' + encodeURIComponent(code) + '&period=' + encodeURIComponent(period);
     if (queryDate) {
-      localProxyUrl += '&endtime=' + encodeURIComponent(queryDate + ' 23:59:59');
+      url += '&endtime=' + encodeURIComponent(queryDate + ' 23:59:59');
     }
 
-    var directUrl = 'https://www.ioc-sealevelmonitoring.org/bgraph.php?code=' + encodeURIComponent(code) + '&output=tab&period=' + encodeURIComponent(period);
-    if (queryDate) {
-      directUrl += '&endtime=' + encodeURIComponent(queryDate + ' 23:59:59');
+    if (!window.location.protocol.startsWith('http')) {
+      showError('Data server is not running.', 'Start it with <code>python3 main.py</code> and open <code>http://localhost:8080</code>.');
+      return;
     }
 
-    // CORS proxies fallback
-    var proxyUrl1 = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(directUrl);
-    var proxyUrl2 = 'https://corsproxy.io/?' + encodeURIComponent(directUrl);
-
-    // If served via HTTP, try the local backend route (main.py) which has zero CORS restrictions
-    if (window.location.protocol.startsWith('http')) {
-      try {
-        var localResp = await fetch(localProxyUrl);
-        if (localResp.ok) {
-          var localText = await localResp.text();
-          if (localText && (localText.indexOf('<tr') !== -1 || localText.indexOf('\t') !== -1)) {
-            parseAndLoadRawText(localText, displayName + dateLabel);
-            statusEl.hidden = true;
-            modal.close();
-            return;
-          }
-        }
-      } catch (errLocal) {
-        // Fall through to direct or public proxies if local route is not active
-      }
-    }
-
+    var resp;
     try {
-      var resp = await fetch(directUrl);
-      if (!resp.ok) throw new Error('HTTP ' + resp.status);
-      var text = await resp.text();
-      parseAndLoadRawText(text, displayName + dateLabel);
+      resp = await fetch(url);
+    } catch (e) {
+      showError('Could not reach the data server.', 'Make sure <code>python3 main.py</code> is running.');
+      return;
+    }
+
+    if (!resp.ok) {
+      showError('Station data could not be retrieved.', 'The IOC Sea Level Monitoring service did not respond (HTTP ' + resp.status + '). Please try again later.');
+      return;
+    }
+
+    var text = await resp.text();
+    if (parseAndLoadRawText(text, displayName + dateLabel, true)) {
       statusEl.hidden = true;
       modal.close();
-    } catch (e) {
-      try {
-        statusEl.innerHTML = '<span style="color:var(--warning)">Direct browser fetch blocked by CORS. Trying fallback proxy...</span>';
-        var pResp = await fetch(proxyUrl1);
-        if (!pResp.ok) throw new Error('Proxy 1 HTTP ' + pResp.status);
-        var pText = await pResp.text();
-        parseAndLoadRawText(pText, displayName + dateLabel);
-        statusEl.hidden = true;
-        modal.close();
-      } catch (err2) {
-        try {
-          var pResp2 = await fetch(proxyUrl2);
-          if (!pResp2.ok) throw new Error('Proxy 2 HTTP ' + pResp2.status);
-          var pText2 = await pResp2.text();
-          parseAndLoadRawText(pText2, displayName + dateLabel);
-          statusEl.hidden = true;
-          modal.close();
-        } catch (err3) {
-          statusEl.innerHTML =
-            '<div style="color:var(--danger);margin-bottom:6px;">Browser CORS policy prevented direct automated fetch.</div>' +
-            '<div style="font-size:11px;color:var(--fg-muted);margin-bottom:8px;">💡 Tip: Run <code>python3 main.py</code> to fetch stations without CORS restrictions!</div>' +
-            '<a href="' + directUrl + '" target="_blank" rel="noopener" class="btn sm primary" style="font-size:11px;">Open IOC Station URL</a>';
-        }
-      }
+    } else {
+      showError('No data available for this station.', displayName + dateLabel + ' returned no sea level readings. Try another station, period or date.');
     }
   }
 

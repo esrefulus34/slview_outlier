@@ -70,7 +70,7 @@ Subtracting the time-frame average ($X_i - \text{offset}$) allows the graph to e
   - Reset to clean real IOC Erdek station data.
 - **Data Ingestion & Export**:
   - Preloaded 24h dataset from IOC station **Erdek (Marmara Sea, Turkey)**.
-  - Live IOC download modal with fallback CORS proxy and direct URL link.
+  - Live IOC download modal (data fetched server-side by main.py).
   - Drag-and-drop or paste raw TSV / HTML table / CSV.
   - Export cleaned data as CSV.
 - **STALTA-Themed UI**:
