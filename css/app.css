@@ -1,0 +1,751 @@
+/* SLView Outlier - Main Application Stylesheet */
+
+/* ---------- Layout & Shell ---------- */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: var(--card);
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-bottom: 2px solid transparent;
+  border-image: var(--gradient) 1;
+  box-shadow: var(--shadow-sm);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.brand-mark {
+  width: 34px;
+  height: 34px;
+  border-radius: var(--r-nav);
+  background: var(--gradient);
+  display: grid;
+  place-items: center;
+  color: #fff;
+  box-shadow: var(--shadow-sm);
+}
+
+.brand-title {
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.brand-sub {
+  font-size: 11px;
+  color: var(--fg-subtle);
+  font-weight: 500;
+}
+
+.vsep {
+  width: 1px;
+  height: 22px;
+  background: var(--border);
+}
+
+.spacer {
+  flex: 1;
+}
+
+.top-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* App Main Layout Grid */
+.app-container {
+  max-width: 1720px;
+  margin: 0 auto;
+  padding: 16px 20px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 380px;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 1140px) {
+  .app-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------- Buttons & Controls ---------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  height: 32px;
+  padding: 0 12px;
+  border-radius: var(--r-ctl);
+  font-size: 13px;
+  font-weight: 500;
+  border: 1px solid var(--border);
+  background: var(--card);
+  color: var(--fg);
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+
+.btn:hover {
+  background: var(--muted);
+  border-color: color-mix(in srgb, var(--primary) 30%, var(--border));
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn.primary {
+  background: var(--gradient);
+  color: #ffffff;
+  border-color: transparent;
+  font-weight: 600;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn.primary:hover {
+  filter: brightness(1.08);
+}
+
+.btn.ghost {
+  border-color: transparent;
+  background: transparent;
+}
+
+.btn.ghost:hover {
+  background: var(--muted);
+}
+
+.btn.bare {
+  padding: 0 8px;
+}
+
+.btn.sm {
+  height: 26px;
+  padding: 0 8px;
+  font-size: 12px;
+}
+
+.btn.danger {
+  color: var(--danger-fg);
+  border-color: color-mix(in srgb, var(--danger) 30%, transparent);
+}
+
+.btn.danger:hover {
+  background: color-mix(in srgb, var(--danger) 10%, transparent);
+}
+
+/* ---------- Cards ---------- */
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--r-card);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card-head {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: color-mix(in srgb, var(--card) 95%, var(--muted));
+}
+
+.card-head h2, .card-head h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-body {
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* ---------- Chart Section ---------- */
+.chart-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.chart-meta-bar {
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-size: 12px;
+}
+
+.chart-title-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pill-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--muted);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--fg-muted);
+  border: 1px solid var(--border);
+}
+
+.pill-badge.active {
+  background: color-mix(in srgb, var(--primary) 12%, transparent);
+  color: var(--primary);
+  border-color: color-mix(in srgb, var(--primary) 25%, transparent);
+}
+
+.chart-cursor-readout {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--fg-muted);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.chart-container-wrap {
+  position: relative;
+  width: 100%;
+  height: 480px;
+  min-height: 400px;
+  background: var(--wave-bg);
+  overflow: hidden;
+}
+
+#chart-box {
+  width: 100%;
+  height: 100%;
+}
+
+/* uPlot overrides to fit theme */
+.uplot {
+  font-family: var(--font) !important;
+}
+
+.u-legend {
+  display: none !important; /* We build our own richer, interactive legend below */
+}
+
+/* Custom Chart Legend */
+.plot-legend {
+  padding: 10px 16px;
+  border-top: 1px solid var(--border);
+  background: var(--card);
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  color: var(--fg-muted);
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.swatch {
+  display: inline-block;
+  width: 14px;
+  height: 4px;
+  border-radius: 2px;
+  background: currentColor;
+}
+
+.swatch.band {
+  height: 12px;
+  border-radius: 2px;
+  border: 1px dashed currentColor;
+}
+
+.swatch.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.swatch.dashed {
+  border-top: 2px dashed currentColor;
+  height: 0;
+  background: transparent !important;
+}
+
+/* ---------- Stat Cards Grid ---------- */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 10px;
+}
+
+.stat-chip {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--r-ctl);
+  padding: 10px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  box-shadow: var(--shadow-sm);
+}
+
+.stat-label {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--fg-subtle);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.stat-val {
+  font-family: var(--mono);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--fg);
+}
+
+.stat-sub {
+  font-size: 11px;
+  color: var(--fg-muted);
+}
+
+.stat-chip.alert-danger .stat-val {
+  color: var(--danger);
+}
+
+.stat-chip.alert-success .stat-val {
+  color: var(--success);
+}
+
+/* ---------- Form Controls in Dock ---------- */
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.field-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.field-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--fg);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.field-output {
+  font-family: var(--mono);
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.field-hint {
+  font-size: 11px;
+  color: var(--fg-subtle);
+  line-height: 1.4;
+}
+
+.range-input {
+  width: 100%;
+  accent-color: var(--primary);
+  height: 6px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+/* Segmented Buttons (e.g. Spike Window: Off, 3, 5, 7) */
+.seg-control {
+  display: flex;
+  background: var(--muted);
+  padding: 3px;
+  border-radius: var(--r-nav);
+  gap: 2px;
+}
+
+.seg-btn {
+  flex: 1;
+  height: 28px;
+  border: 0;
+  border-radius: var(--r-seg);
+  background: transparent;
+  color: var(--fg-muted);
+  font-size: 12px;
+  font-weight: 500;
+  transition: all 0.15s ease;
+}
+
+.seg-btn:hover {
+  color: var(--fg);
+}
+
+.seg-btn.active {
+  background: var(--card);
+  color: var(--fg);
+  font-weight: 600;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* Toggle Switch Row */
+.toggle-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 4px 0;
+}
+
+.toggle-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.toggle-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--fg);
+}
+
+.toggle-desc {
+  font-size: 11px;
+  color: var(--fg-subtle);
+}
+
+/* Toggle Switch */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 38px;
+  height: 20px;
+  flex: none;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider-switch {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background-color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  transition: .2s;
+}
+
+.slider-switch:before {
+  position: absolute;
+  content: "";
+  height: 14px;
+  width: 14px;
+  left: 2px;
+  bottom: 2px;
+  background-color: var(--fg-subtle);
+  border-radius: 50%;
+  transition: .2s;
+}
+
+input:checked + .slider-switch {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+input:checked + .slider-switch:before {
+  transform: translateX(18px);
+  background-color: #ffffff;
+}
+
+/* Badges */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 1px 6px;
+  border-radius: var(--r-chip);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.badge-success {
+  background: color-mix(in srgb, var(--success) 15%, transparent);
+  color: var(--success-fg);
+}
+
+.badge-danger {
+  background: color-mix(in srgb, var(--danger) 15%, transparent);
+  color: var(--danger-fg);
+}
+
+.badge-warning {
+  background: color-mix(in srgb, var(--warning) 15%, transparent);
+  color: var(--warning-fg);
+}
+
+/* Formula Explainer Card */
+.formula-box {
+  background: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: var(--r-nav);
+  padding: 10px 12px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--fg-muted);
+}
+
+.formula-box code {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--fg);
+  background: var(--card);
+  padding: 1px 4px;
+  border-radius: 3px;
+  border: 1px solid var(--border-subtle);
+}
+
+/* Outlier Inspector Table */
+.outlier-table-wrap {
+  max-height: 240px;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--r-nav);
+  background: var(--card);
+}
+
+.outlier-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  text-align: left;
+}
+
+.outlier-table th {
+  position: sticky;
+  top: 0;
+  background: var(--muted);
+  padding: 8px 10px;
+  font-weight: 600;
+  color: var(--fg-muted);
+  border-bottom: 1px solid var(--border);
+  z-index: 2;
+}
+
+.outlier-table td {
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border-subtle);
+  font-family: var(--mono);
+}
+
+.outlier-table tr:hover {
+  background: var(--muted);
+  cursor: pointer;
+}
+
+/* Dialog / Modal */
+dialog.modal {
+  width: min(600px, 94vw);
+  border: 1px solid var(--border);
+  border-radius: var(--r-card);
+  background: var(--card);
+  color: var(--fg);
+  padding: 0;
+  box-shadow: var(--shadow-lg);
+}
+
+dialog.modal::backdrop {
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(2px);
+}
+
+.modal-head {
+  padding: 14px 18px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.modal-head h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.modal-body {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.modal-foot {
+  padding: 12px 18px;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  background: var(--muted);
+}
+
+.input {
+  width: 100%;
+  height: 34px;
+  padding: 0 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--r-ctl);
+  background: var(--card);
+  font-size: 13px;
+  color: var(--fg);
+}
+
+.input:focus {
+  border-color: var(--primary);
+  outline: none;
+}
+
+textarea.input {
+  height: 120px;
+  padding: 8px 10px;
+  font-family: var(--mono);
+  font-size: 12px;
+  resize: vertical;
+}
+
+/* ---------- Station Picker in Modal ---------- */
+.station-search-box {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.station-results-list {
+  max-height: 220px;
+  overflow-y: auto;
+  border: 1px solid var(--border);
+  border-radius: var(--r-ctl);
+  background: var(--card);
+  display: flex;
+  flex-direction: column;
+}
+
+.station-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border-subtle);
+  cursor: pointer;
+  transition: background 0.1s ease;
+  font-size: 13px;
+}
+
+.station-item:last-child {
+  border-bottom: none;
+}
+
+.station-item:hover {
+  background: var(--muted);
+}
+
+.station-item.selected {
+  background: color-mix(in srgb, var(--primary) 12%, transparent);
+  border-color: color-mix(in srgb, var(--primary) 30%, transparent);
+}
+
+.station-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.station-code-badge {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: var(--r-chip);
+  background: var(--muted);
+  color: var(--primary);
+  border: 1px solid var(--border-subtle);
+}
+
+.station-country-badge {
+  font-size: 11px;
+  color: var(--fg-subtle);
+}
+
+.station-chips-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.chip-btn {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--muted);
+  border: 1px solid var(--border);
+  color: var(--fg-muted);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.chip-btn:hover {
+  background: color-mix(in srgb, var(--primary) 15%, transparent);
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+.date-helper-btns {
+  display: flex;
+  gap: 6px;
+  margin-top: 4px;
+}
+
+

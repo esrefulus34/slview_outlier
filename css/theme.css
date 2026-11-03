@@ -1,0 +1,116 @@
+/* SLView Outlier - Design Tokens & Theming (Inspired by STALTA) */
+:root {
+  --bg: #f3f5f9;
+  --card: #ffffff;
+  --muted: #edf0f6;
+  --fg: #0d1117;
+  --fg-muted: #525866;
+  --fg-subtle: #6c7586;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-subtle: rgba(0, 0, 0, 0.05);
+  --primary: #0074d9;
+  --primary-fg: #ffffff;
+  --teal: #009296;
+  --gradient: linear-gradient(135deg, #0074d9 0%, #009296 100%);
+  --success: #00bc7d;
+  --success-fg: #008a5c;
+  --warning: #f59e0b;
+  --warning-fg: #b45309;
+  --danger: #d4183d;
+  --danger-fg: #b3122f;
+  --chart-1: #2c82f5;
+  --chart-2: #10b981;
+  --chart-3: #8b5cf6;
+  --chart-4: #f59e0b;
+  --chart-5: #ec4899;
+  --wave-bg: #f8f9fc;
+  --grid: rgba(0, 0, 0, 0.06);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px -1px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+  --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --r-chip: 4px;
+  --r-seg: 6px;
+  --r-nav: 8px;
+  --r-ctl: 8px;
+  --r-card: 12px;
+}
+
+:root[data-theme="dark"] {
+  --bg: #080c17;
+  --card: #0f1724;
+  --muted: #172036;
+  --fg: #dce8ff;
+  --fg-muted: #94a8c9;
+  --fg-subtle: #6e8aaf;
+  --border: #64a0ff1a;
+  --border-subtle: #64a0ff12;
+  --primary: #5bb0ff;
+  --primary-fg: #080c17;
+  --success: #00d492;
+  --success-fg: #00d492;
+  --warning: #fbb040;
+  --warning-fg: #fbb040;
+  --danger: #c0183a;
+  --danger-fg: #ff6b85;
+  --wave-bg: #0b1220;
+  --grid: rgba(100, 160, 255, 0.08);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.5), 0 1px 2px -1px rgba(0, 0, 0, 0.5);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 2px 4px -2px rgba(0, 0, 0, 0.5);
+  color-scheme: dark;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, select, textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+
+.mono {
+  font-family: var(--mono);
+}
+
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+  flex: none;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.i18 { width: 18px; height: 18px; }
+.i20 { width: 20px; height: 20px; }
+.i14 { width: 14px; height: 14px; }
+.i12 { width: 12px; height: 12px; }
+

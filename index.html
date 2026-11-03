@@ -1,0 +1,590 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>SLView Outlier - IOC Sea Level Monitoring & Spike Removal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+  
+  <!-- uPlot CSS (Local vendor with CDN fallback) -->
+  <link rel="stylesheet" href="vendor/uPlot.min.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/app.css">
+
+  <script>
+    // Resolve theme before first paint to prevent flashes
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem('slview.theme'); } catch (e) {}
+      if (!t) {
+        t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+      document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+</head>
+<body>
+
+  <!-- Top Navigation Bar -->
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="SLView Outlier">
+      <span class="brand-mark">
+        <svg class="icon i20" data-i="waves"></svg>
+      </span>
+      <div>
+        <div class="brand-title">SLView Outlier</div>
+        <div class="brand-sub">IOC Sea Level QC & Outlier Filter</div>
+      </div>
+    </a>
+
+    <span class="vsep" aria-hidden="true"></span>
+
+    <!-- Active Station & Sensor Badges -->
+    <div style="display:flex;align-items:center;gap:6px;">
+      <span class="pill-badge" id="station-name-pill">Erdek (Marmara Sea)</span>
+      <span class="pill-badge active" id="sensor-pill">rad(m)</span>
+      <span class="pill-badge">24h Period</span>
+    </div>
+
+    <span class="spacer"></span>
+
+    <!-- Top Action Buttons -->
+    <div class="top-actions">
+      <button class="btn" type="button" id="btn-open-fetch" title="Fetch IOC Station Data">
+        <svg class="icon" data-i="database"></svg>
+        <span>Fetch IOC</span>
+      </button>
+
+      <button class="btn" type="button" id="btn-open-upload" title="Upload or Paste Data">
+        <svg class="icon" data-i="upload"></svg>
+        <span>Upload / Paste</span>
+      </button>
+
+      <button class="btn" type="button" id="btn-export-csv" title="Export Cleaned Data CSV">
+        <svg class="icon" data-i="download"></svg>
+        <span>Export CSV</span>
+      </button>
+
+      <button class="btn bare ghost" type="button" id="btn-open-help" title="IOC FAQ & Formulation">
+        <svg class="icon" data-i="info"></svg>
+      </button>
+
+      <button class="btn bare ghost" type="button" id="theme-btn" aria-label="Toggle theme">
+        <svg class="icon" data-i="moon"></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="app-container">
+
+    <!-- Left Column: Chart, Statistics, and Outliers Table -->
+    <div style="display:flex;flex-direction:column;gap:16px;min-width:0;">
+
+      <!-- Chart Card -->
+      <div class="card chart-card">
+        <div class="chart-meta-bar">
+          <div class="chart-title-group">
+            <span style="font-weight:600;font-size:13px;display:flex;align-items:center;gap:6px;">
+              <svg class="icon" data-i="activity" style="color:var(--primary);"></svg>
+              Sea Level Time Series
+            </span>
+            <span style="color:var(--fg-subtle);">•</span>
+            <span style="color:var(--fg-muted);font-size:12px;">Drag horizontally to zoom time</span>
+          </div>
+
+          <div style="display:flex;align-items:center;gap:8px;">
+            <div class="chart-cursor-readout" id="cursor-readout">Hover over chart for details</div>
+            <button class="btn sm" type="button" id="btn-fit-y" title="Align Y-axis scale to min/max of visible data">
+              <svg class="icon i14" data-i="updown"></svg>
+              <span>Fit Y to Visible</span>
+            </button>
+            <button class="btn sm" type="button" id="btn-reset-zoom" title="Reset Zoom Window">
+              <svg class="icon i14" data-i="crosshair"></svg>
+              <span>Reset</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- uPlot Canvas Container -->
+        <div class="chart-container-wrap">
+          <div id="chart-box"></div>
+        </div>
+
+        <!-- Interactive Legend -->
+        <div class="plot-legend">
+          <span class="legend-item">
+            <i class="swatch" style="background:var(--primary)"></i> Sea Level
+          </span>
+          <span class="legend-item">
+            <i class="swatch band" style="color:var(--success);background:rgba(5,150,105,0.12)"></i> Valid Tolerance Mask
+          </span>
+          <span class="legend-item">
+            <i class="swatch band" style="color:var(--danger);background:rgba(220,38,38,0.12)"></i> Outlier Region
+          </span>
+          <span class="legend-item" style="color:var(--danger)">
+            <i class="swatch dot" style="background:var(--danger);box-shadow:0 0 0 2px rgba(220,38,38,0.4)"></i> Outlier Point
+          </span>
+          <span class="legend-item" style="color:var(--success)">
+            <i class="swatch dashed" style="color:var(--success)"></i> Median
+          </span>
+          <span class="legend-item" style="color:var(--chart-3)">
+            <i class="swatch dashed" style="color:var(--chart-3)"></i> Percentile 90
+          </span>
+        </div>
+      </div>
+
+      <!-- Live Statistics Chips Grid -->
+      <div class="stats-grid">
+        <div class="stat-chip">
+          <span class="stat-label">Total Points</span>
+          <span class="stat-val" id="stat-total-count">0</span>
+          <span class="stat-sub">30s interval</span>
+        </div>
+
+        <div class="stat-chip" id="chip-outliers">
+          <span class="stat-label">Outliers Flagged</span>
+          <span class="stat-val" id="stat-outlier-count">0 (0.0%)</span>
+          <span class="stat-sub">|X - med| &gt; tol</span>
+        </div>
+
+        <div class="stat-chip">
+          <span class="stat-label">Median</span>
+          <span class="stat-val" id="stat-median">0.000 m</span>
+          <span class="stat-sub">P50 baseline</span>
+        </div>
+
+        <div class="stat-chip">
+          <span class="stat-label">Percentile 90</span>
+          <span class="stat-val" id="stat-p90">0.000 m</span>
+          <span class="stat-sub">Upper distribution</span>
+        </div>
+
+        <div class="stat-chip">
+          <span class="stat-label">Tolerance Envelope</span>
+          <span class="stat-val" id="stat-tolerance">±0.000 m</span>
+          <span class="stat-sub">k × |P90 - med|</span>
+        </div>
+
+        <div class="stat-chip">
+          <span class="stat-label">Mean Offset</span>
+          <span class="stat-val" id="stat-offset">0.000 m</span>
+          <span class="stat-sub">Zero-center value</span>
+        </div>
+
+        <div class="stat-chip">
+          <span class="stat-label">True Tidal Span</span>
+          <span class="stat-val" id="stat-valid-span">0.0 cm</span>
+          <span class="stat-sub">Real variation</span>
+        </div>
+
+        <div class="stat-chip">
+          <span class="stat-label">Signal Shrink</span>
+          <span class="stat-val"><span id="stat-shrink-factor" class="badge badge-success">Normal 1:1</span></span>
+          <span class="stat-sub">Distortion factor</span>
+        </div>
+      </div>
+
+      <!-- Outlier Inspector Table Card -->
+      <div class="card">
+        <div class="card-head">
+          <h3>
+            <svg class="icon" data-i="alert" style="color:var(--danger);"></svg>
+            Outlier Events Inspector
+            <span class="badge badge-danger" id="outlier-table-badge">0</span>
+          </h3>
+          <span style="font-size:12px;color:var(--fg-subtle);">Click row to zoom directly to anomaly</span>
+        </div>
+        <div class="outlier-table-wrap">
+          <table class="outlier-table">
+            <thead>
+              <tr>
+                <th>Time (UTC)</th>
+                <th>Measured Value</th>
+                <th>Median Reference</th>
+                <th>Deviation from Tolerance</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="outliers-table-body">
+              <tr>
+                <td colspan="5" style="text-align:center;color:var(--fg-subtle);padding:14px;">No outliers detected.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Right Column: Interactive Parameter Dock & Stress Testing -->
+    <div style="display:flex;flex-direction:column;gap:16px;">
+
+      <!-- IOC Outlier Parameters Card -->
+      <div class="card">
+        <div class="card-head">
+          <h3>
+            <svg class="icon" data-i="sliders" style="color:var(--primary);"></svg>
+            IOC Outlier Parameters
+          </h3>
+        </div>
+        <div class="card-body">
+
+          <!-- Formula Explainer Box -->
+          <div class="formula-box">
+            <div style="font-weight:600;margin-bottom:4px;color:var(--fg);">IOC Formula:</div>
+            <div><code>tolerance = k × |P90 - median|</code></div>
+            <div style="margin-top:4px;"><code>|X - median| &gt; tolerance &rarr; OUTLIER</code></div>
+            <div id="formula-live-eval" style="margin-top:6px;font-family:var(--mono);font-size:11px;color:var(--primary);">
+              Evaluating...
+            </div>
+          </div>
+
+          <!-- Parameter 1: Tolerance Multiplier k -->
+          <div class="field">
+            <div class="field-head">
+              <label class="field-label" for="k-slider">
+                Tolerance Factor (k)
+              </label>
+              <span class="field-output" id="k-output">3.0</span>
+            </div>
+            <input type="range" class="range-input" id="k-slider" min="0.5" max="8.0" step="0.1" value="3.0">
+            <span class="field-hint">IOC default is <strong>3.0</strong>. Lower values tighten the mask; higher values tolerate wider waves.</span>
+          </div>
+
+          <!-- Parameter 2: Percentile P -->
+          <div class="field">
+            <div class="field-head">
+              <label class="field-label" for="p-slider">
+                Reference Percentile (P)
+              </label>
+              <span class="field-output" id="p-output">90%</span>
+            </div>
+            <input type="range" class="range-input" id="p-slider" min="60" max="99" step="1" value="90">
+            <span class="field-hint">IOC standard calculates the 90th percentile of the plotted window.</span>
+          </div>
+
+          <!-- Parameter 3: Spike Removal Window -->
+          <div class="field">
+            <div class="field-head">
+              <label class="field-label">Spike Removal (Median Filter)</label>
+            </div>
+            <div class="seg-control">
+              <button class="seg-btn seg-spike-btn active" data-window="1">Off</button>
+              <button class="seg-btn seg-spike-btn" data-window="3">Win 3 (IOC)</button>
+              <button class="seg-btn seg-spike-btn" data-window="5">Win 5</button>
+              <button class="seg-btn seg-spike-btn" data-window="7">Win 7</button>
+            </div>
+            <span class="field-hint">IOC FAQ: <em>"take the median out of a window with size 3."</em></span>
+          </div>
+
+          <!-- Parameter 4: Zero-Offset Centering -->
+          <div class="toggle-row">
+            <div class="toggle-info">
+              <span class="toggle-title">Subtract Offset (Zero-Center)</span>
+              <span class="toggle-desc">Subtracts window average so graph evolves around 0.</span>
+            </div>
+            <label class="switch">
+              <input type="checkbox" id="offset-toggle">
+              <span class="slider-switch"></span>
+            </label>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Display & Scaling Mode Card -->
+      <div class="card">
+        <div class="card-head">
+          <h3>
+            <svg class="icon" data-i="settings" style="color:var(--primary);"></svg>
+            Display & Scaling Controls
+          </h3>
+        </div>
+        <div class="card-body">
+
+          <!-- Y-Scale Fitting Mode (Solves Shrinking Issue) -->
+          <div class="field">
+            <label class="field-label">Y-Axis Scale Mode</label>
+            <div class="seg-control">
+              <button class="seg-btn seg-scale-btn active" data-scale="fit_valid" title="Fits Y-axis to valid sea level signal, preventing extreme spikes from shrinking the tidal curve">
+                Auto-Fit Valid Data
+              </button>
+              <button class="seg-btn seg-scale-btn" data-scale="fit_all" title="Includes extreme spikes, showing the original squished distortion">
+                Include All Spikes
+              </button>
+            </div>
+            <span class="field-hint"><strong>Auto-Fit</strong> keeps the 10cm tidal curve crisp and readable even when 15m spikes occur!</span>
+          </div>
+
+          <!-- Curve Mode -->
+          <div class="field">
+            <label class="field-label">Trace Filtering Mode</label>
+            <div class="seg-control">
+              <button class="seg-btn seg-mode-btn active" data-mode="mask">Mask Overlay</button>
+              <button class="seg-btn seg-mode-btn" data-mode="hide">Hide Outliers</button>
+              <button class="seg-btn seg-mode-btn" data-mode="clean">Spike Filtered</button>
+              <button class="seg-btn seg-mode-btn" data-mode="compare">Compare</button>
+            </div>
+          </div>
+
+          <!-- Mask Element Toggles -->
+          <div style="display:flex;flex-direction:column;gap:8px;padding-top:4px;">
+            <div class="toggle-row">
+              <span class="toggle-title" style="font-size:12px;font-weight:500;">Tolerance Mask Band</span>
+              <label class="switch">
+                <input type="checkbox" id="mask-toggle" checked>
+                <span class="slider-switch"></span>
+              </label>
+            </div>
+
+            <div class="toggle-row">
+              <span class="toggle-title" style="font-size:12px;font-weight:500;">Outlier Shaded Regions</span>
+              <label class="switch">
+                <input type="checkbox" id="zone-toggle" checked>
+                <span class="slider-switch"></span>
+              </label>
+            </div>
+
+            <div class="toggle-row">
+              <span class="toggle-title" style="font-size:12px;font-weight:500;">Median Reference Line</span>
+              <label class="switch">
+                <input type="checkbox" id="median-toggle" checked>
+                <span class="slider-switch"></span>
+              </label>
+            </div>
+
+            <div class="toggle-row">
+              <span class="toggle-title" style="font-size:12px;font-weight:500;">Percentile 90 Line</span>
+              <label class="switch">
+                <input type="checkbox" id="p90-toggle" checked>
+                <span class="slider-switch"></span>
+              </label>
+            </div>
+
+            <div class="toggle-row">
+              <span class="toggle-title" style="font-size:12px;font-weight:500;">Outlier Point Halos</span>
+              <label class="switch">
+                <input type="checkbox" id="points-toggle" checked>
+                <span class="slider-switch"></span>
+              </label>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <!-- Outlier Simulation & Stress Testing Card -->
+      <div class="card">
+        <div class="card-head">
+          <h3>
+            <svg class="icon" data-i="zap" style="color:var(--warning);"></svg>
+            Outlier Stress Testing
+          </h3>
+        </div>
+        <div class="card-body">
+          <p style="margin:0;font-size:12px;color:var(--fg-muted);">
+            Test how extreme glitches distort the scale and verify how the IOC mask handles them:
+          </p>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+            <button class="btn danger sm" type="button" id="btn-inject-high">
+              <svg class="icon i14" data-i="zap"></svg>
+              <span>+12.5m Spike</span>
+            </button>
+            <button class="btn danger sm" type="button" id="btn-inject-zero">
+              <svg class="icon i14" data-i="alert"></svg>
+              <span>0.000m Dropout</span>
+            </button>
+            <button class="btn sm" type="button" id="btn-inject-random" style="grid-column:1/-1;">
+              <svg class="icon i14" data-i="sparkles"></svg>
+              <span>Inject Multi-Spike Jitter</span>
+            </button>
+          </div>
+          <button class="btn primary sm" type="button" id="btn-reset-data">
+            <svg class="icon i14" data-i="refresh"></svg>
+            <span>Reset to Clean 24h Real Data</span>
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <!-- Dialog: Fetch IOC Station Data -->
+  <dialog class="modal" id="modal-fetch" style="width:min(680px, 94vw);">
+    <div class="modal-head">
+      <h3>
+        <svg class="icon" data-i="database" style="color:var(--primary);"></svg>
+        Fetch IOC Sea Level Monitoring Station
+      </h3>
+      <button class="btn bare ghost" type="button" data-close-modal aria-label="Close">
+        <svg class="icon" data-i="x"></svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <!-- Quick Station Shortcut Pills -->
+      <div class="field">
+        <label class="field-label" style="font-size:12px;">Quick Select Stations</label>
+        <div class="station-chips-row">
+          <button type="button" class="chip-btn" data-quick-code="erdek">Erdek (TR)</button>
+          <button type="button" class="chip-btn" data-quick-code="bodr">Bodrum (TR)</button>
+          <button type="button" class="chip-btn" data-quick-code="ista">Istanbul (TR)</button>
+          <button type="button" class="chip-btn" data-quick-code="anta">Antalya (TR)</button>
+          <button type="button" class="chip-btn" data-quick-code="sino">Sinop (TR)</button>
+          <button type="button" class="chip-btn" data-quick-code="alex">Alexandria (EG)</button>
+          <button type="button" class="chip-btn" data-quick-code="mrms">Marmaris (TR)</button>
+          <button type="button" class="chip-btn" data-quick-code="aarh">Aarhus (DK)</button>
+          <button type="button" class="chip-btn" data-quick-code="abed">Aberdeen (UK)</button>
+          <button type="button" class="chip-btn" data-quick-code="ajac">Ajaccio (FR)</button>
+        </div>
+      </div>
+
+      <!-- Station Search & Country Filter Row -->
+      <div style="display:grid;grid-template-columns:1fr 180px;gap:8px;">
+        <div class="field">
+          <label class="field-label" for="fetch-station-search">Search Station (1,340 Stations)</label>
+          <input type="text" class="input" id="fetch-station-search" placeholder="Type station code, name, or location...">
+        </div>
+        <div class="field">
+          <label class="field-label" for="fetch-country-filter">Country Filter</label>
+          <select class="input" id="fetch-country-filter">
+            <option value="">All Countries</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Station List (Scrollable) -->
+      <div class="field">
+        <div class="station-results-list" id="fetch-stations-list">
+          <!-- Populated dynamically by JavaScript -->
+        </div>
+      </div>
+
+      <!-- Selected Station Summary Pill -->
+      <div style="display:flex;align-items:center;justify-content:space-between;padding:8px 12px;background:var(--muted);border-radius:var(--r-ctl);border:1px solid var(--border);">
+        <div style="display:flex;align-items:center;gap:8px;">
+          <span style="font-size:12px;color:var(--fg-muted);">Selected:</span>
+          <span class="station-code-badge" id="fetch-selected-code">erdek</span>
+          <strong id="fetch-selected-title" style="font-size:13px;">Erdek (Turkey)</strong>
+        </div>
+        <input type="hidden" id="fetch-station-code" value="erdek">
+      </div>
+
+      <!-- Date Picker & Period Row -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;padding-top:4px;">
+        <div class="field">
+          <div class="field-head">
+            <label class="field-label" for="fetch-date">Query Date (UTC)</label>
+            <span style="font-size:11px;color:var(--fg-subtle);" id="fetch-date-indicator">Latest 24h</span>
+          </div>
+          <input type="date" class="input" id="fetch-date">
+          <div class="date-helper-btns">
+            <button type="button" class="chip-btn" id="btn-date-latest">Latest (Now)</button>
+            <button type="button" class="chip-btn" id="btn-date-yesterday">Yesterday</button>
+            <button type="button" class="chip-btn" id="btn-date-7d">7 Days Ago</button>
+          </div>
+        </div>
+
+        <div class="field">
+          <div class="field-head">
+            <label class="field-label" for="fetch-period">Period Duration</label>
+          </div>
+          <select class="input" id="fetch-period">
+            <option value="1" selected>1 Day (24 Hours)</option>
+            <option value="0.5">12 Hours (0.5 Day)</option>
+            <option value="7">7 Days (1 Week)</option>
+            <option value="30">30 Days (1 Month)</option>
+          </select>
+          <span class="field-hint">IOC calculates statistics on the selected duration window.</span>
+        </div>
+      </div>
+
+      <div id="fetch-status-msg" style="font-size:12px;color:var(--primary);padding:6px 10px;background:var(--muted);border-radius:var(--r-ctl);" hidden></div>
+    </div>
+    <div class="modal-foot">
+      <button class="btn" type="button" data-close-modal>Cancel</button>
+      <button class="btn primary" type="button" id="btn-do-fetch">
+        <svg class="icon" data-i="download"></svg>
+        <span>Download Station Data</span>
+      </button>
+    </div>
+  </dialog>
+
+  <!-- Dialog: Upload / Paste Custom Data -->
+  <dialog class="modal" id="modal-upload">
+    <div class="modal-head">
+      <h3>Upload or Paste Sea Level Data</h3>
+      <button class="btn bare ghost" type="button" data-close-modal aria-label="Close">
+        <svg class="icon" data-i="x"></svg>
+      </button>
+    </div>
+    <div class="modal-body">
+      <div class="field">
+        <label class="field-label">Choose TSV / CSV / HTML file</label>
+        <input type="file" id="file-upload-input" accept=".tsv,.csv,.txt,.html,.htm">
+      </div>
+      <div style="text-align:center;color:var(--fg-subtle);font-size:12px;">— OR PASTE RAW TABLE TEXT —</div>
+      <div class="field">
+        <label class="field-label" for="paste-text-area">Paste TSV or HTML Table from IOC</label>
+        <textarea class="input" id="paste-text-area" placeholder="Paste table rows from https://www.ioc-sealevelmonitoring.org/bgraph.php..."></textarea>
+      </div>
+    </div>
+    <div class="modal-foot">
+      <button class="btn" type="button" data-close-modal>Cancel</button>
+      <button class="btn primary" type="button" id="btn-do-paste-load">
+        <svg class="icon" data-i="check"></svg>
+        <span>Parse & Render</span>
+      </button>
+    </div>
+  </dialog>
+
+  <!-- Dialog: IOC FAQ & Formulation Help -->
+  <dialog class="modal" id="modal-help">
+    <div class="modal-head">
+      <h3>IOC Sea Level Monitoring - FAQ & Formulation</h3>
+      <button class="btn bare ghost" type="button" data-close-modal aria-label="Close">
+        <svg class="icon" data-i="x"></svg>
+      </button>
+    </div>
+    <div class="modal-body" style="line-height:1.6;font-size:13px;">
+      <h4 style="margin:0 0 4px;font-size:14px;color:var(--primary);">Outlier Detection Mechanism</h4>
+      <p style="margin:0 0 10px;color:var(--fg-muted);">
+        All values \( X \) where \( |X - \text{median}| > \text{tolerance} \) are flagged and hidden.<br>
+        <code>tolerance = 3 × |percentile90 - median|</code><br>
+        The statistics (\(\text{median}\) and \(\text{percentile}_{90}\)) are calculated on the data being plotted (12h, 1d, 7d, 30d).
+      </p>
+
+      <h4 style="margin:0 0 4px;font-size:14px;color:var(--primary);">Spike Removal</h4>
+      <p style="margin:0 0 10px;color:var(--fg-muted);">
+        For spike removal, we take the <strong>median out of a window with size 3</strong>.
+      </p>
+
+      <h4 style="margin:0 0 4px;font-size:14px;color:var(--primary);">What the 'Offset' Value Represents</h4>
+      <p style="margin:0 0 10px;color:var(--fg-muted);">
+        The offset is the average (mean) across the current time frame that we subtract to make sure the graph evolves around zero. This allows aligning multiple sensors with different offsets on top of each other.
+      </p>
+
+      <h4 style="margin:0 0 4px;font-size:14px;color:var(--primary);">Vertical Datum Information</h4>
+      <p style="margin:0;color:var(--fg-muted);">
+        IOC only deals with relative sea level data and does not have the vertical datum information directly available. For referenced data, contact the station operator or consult the Long-term MSL data link.
+      </p>
+    </div>
+    <div class="modal-foot">
+      <button class="btn primary" type="button" data-close-modal>Got it</button>
+    </div>
+  </dialog>
+
+  <!-- Preloaded Data & Application Scripts -->
+  <script src="data/sample_erdek.js"></script>
+  <script src="data/stations.js"></script>
+  <script src="vendor/uPlot.iife.min.js"></script>
+  <script src="js/icons.js"></script>
+  <script src="js/theme.js"></script>
+  <script src="js/outlier_engine.js"></script>
+  <script src="js/chart.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
+

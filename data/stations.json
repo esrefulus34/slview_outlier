@@ -1,0 +1,9382 @@
+[
+  {
+    "code": "aarh",
+    "name": "Aarhus",
+    "location": "Aarhus",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "abas",
+    "name": "Abashiri",
+    "location": "Abashiri",
+    "country": "Japan",
+    "gloss": "327"
+  },
+  {
+    "code": "abed",
+    "name": "Aberdeen",
+    "location": "Aberdeen",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "abur",
+    "name": "Aburatsu",
+    "location": "Aburatsu",
+    "country": "Japan",
+    "gloss": "82"
+  },
+  {
+    "code": "acaj",
+    "name": "Acajutla SV",
+    "location": "Acajutla SV",
+    "country": "El Salvador",
+    "gloss": "182"
+  },
+  {
+    "code": "acap2",
+    "name": "Acapulco API",
+    "location": "Acapulco API",
+    "country": "Mexico",
+    "gloss": "267"
+  },
+  {
+    "code": "acnj",
+    "name": "Atlantic City NJ",
+    "location": "Atlantic City NJ",
+    "country": "USA",
+    "gloss": "220"
+  },
+  {
+    "code": "acnj2",
+    "name": "Atlantic City NJ",
+    "location": "Atlantic City NJ",
+    "country": "USA",
+    "gloss": "220"
+  },
+  {
+    "code": "adak",
+    "name": "Adak AK",
+    "location": "Adak AK",
+    "country": "USA",
+    "gloss": "302"
+  },
+  {
+    "code": "adak2",
+    "name": "Adak AK",
+    "location": "Adak AK",
+    "country": "USA",
+    "gloss": "302"
+  },
+  {
+    "code": "agua",
+    "name": "Aguadilla (Crash Boat)",
+    "location": "Aguadilla (Crash Boat)",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "ajac",
+    "name": "Ajaccio",
+    "location": "Ajaccio",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ajac2",
+    "name": "Ajaccio2",
+    "location": "Ajaccio2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "alac1",
+    "name": "Alicante1",
+    "location": "Alicante1",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "alac2",
+    "name": "Alicante2",
+    "location": "Alicante2",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "alak",
+    "name": "Alitak US",
+    "location": "Alitak US",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "alak2",
+    "name": "Alitak US",
+    "location": "Alitak US",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "alam",
+    "name": "Alameda CA",
+    "location": "Alameda CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "alawa",
+    "name": "Ala Wai Hbr",
+    "location": "Ala Wai Hbr",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "alcu",
+    "name": "Alcudia",
+    "location": "Alcudia",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "aler",
+    "name": "Alert",
+    "location": "Alert",
+    "country": "Canada",
+    "gloss": "333"
+  },
+  {
+    "code": "ales",
+    "name": "Ålesund",
+    "location": "Ålesund",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "alex",
+    "name": "Alexandria",
+    "location": "Alexandria",
+    "country": "Egypt",
+    "gloss": ""
+  },
+  {
+    "code": "alex2",
+    "name": "Alexandria",
+    "location": "Alexandria",
+    "country": "Egypt",
+    "gloss": ""
+  },
+  {
+    "code": "alex3",
+    "name": "alexandria",
+    "location": "alexandria",
+    "country": "Egypt",
+    "gloss": ""
+  },
+  {
+    "code": "alge",
+    "name": "Algeciras",
+    "location": "Algeciras",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "alme",
+    "name": "Almeria",
+    "location": "Almeria",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "alme2",
+    "name": "Almería",
+    "location": "Almería",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "alofi",
+    "name": "Alofi Niue",
+    "location": "Alofi Niue",
+    "country": "Niue",
+    "gloss": ""
+  },
+  {
+    "code": "alva",
+    "name": "Alvarado",
+    "location": "Alvarado",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "alva2",
+    "name": "Alvarado2",
+    "location": "Alvarado2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "amal",
+    "name": "Charlotte-Amalie VI",
+    "location": "Charlotte-Amalie VI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "amal2",
+    "name": "Charlotte-Amalie VI",
+    "location": "Charlotte-Amalie VI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "amas",
+    "name": "Amasra",
+    "location": "Amasra",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "ambon",
+    "name": "Ambon",
+    "location": "Ambon",
+    "country": "Indonesia",
+    "gloss": "68"
+  },
+  {
+    "code": "amor",
+    "name": "Katapola, Amorgos Island",
+    "location": "Katapola, Amorgos Island",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "AMTSI",
+    "name": "Port of Ampana, Central Sulawesi",
+    "location": "Port of Ampana, Central Sulawesi",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "AN15",
+    "name": "Ancona",
+    "location": "Ancona",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "anch",
+    "name": "Anchorage AK",
+    "location": "Anchorage AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "anch2",
+    "name": "Anchorage AK",
+    "location": "Anchorage AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "ancu",
+    "name": "Ancud",
+    "location": "Ancud",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ancu2",
+    "name": "Ancud",
+    "location": "Ancud",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ande",
+    "name": "Andenes",
+    "location": "Andenes",
+    "country": "Norway",
+    "gloss": "322"
+  },
+  {
+    "code": "angu",
+    "name": "Road Bay",
+    "location": "Road Bay",
+    "country": "Anguilla",
+    "gloss": ""
+  },
+  {
+    "code": "anta",
+    "name": "Antalya",
+    "location": "Antalya",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "anti",
+    "name": "Antonina, PR",
+    "location": "Antonina, PR",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "anto",
+    "name": "Antofagasta CL",
+    "location": "Antofagasta CL",
+    "country": "Chile",
+    "gloss": "174"
+  },
+  {
+    "code": "anto2",
+    "name": "Antofagasta CL",
+    "location": "Antofagasta CL",
+    "country": "Chile",
+    "gloss": "174"
+  },
+  {
+    "code": "apfl",
+    "name": "Apalachicola FL",
+    "location": "Apalachicola FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "apfl2",
+    "name": "Apalachicola FL",
+    "location": "Apalachicola FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "apla",
+    "name": "Lawma, Amerada Pass, LA",
+    "location": "Lawma, Amerada Pass, LA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "aqab",
+    "name": "Aqaba",
+    "location": "Aqaba",
+    "country": "Jordan",
+    "gloss": ""
+  },
+  {
+    "code": "aracS",
+    "name": "Arecibo (GTS)",
+    "location": "Arecibo (GTS)",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "arca",
+    "name": "Arcachon Eyrac",
+    "location": "Arcachon Eyrac",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "arca2",
+    "name": "Arcachon Eyrac 2",
+    "location": "Arcachon Eyrac 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "aren",
+    "name": "Arena Cove CA",
+    "location": "Arena Cove CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "aren2",
+    "name": "Arena Cove CA",
+    "location": "Arena Cove CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "aric",
+    "name": "Arica CL",
+    "location": "Arica CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "aric2",
+    "name": "Arica CL",
+    "location": "Arica CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "arko",
+    "name": "Arko",
+    "location": "Arko",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "arrc2",
+    "name": "Porto do Forno",
+    "location": "Porto do Forno",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "arre",
+    "name": "Arrecife",
+    "location": "Arrecife",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "arsu",
+    "name": "Arsuz (Hatay)",
+    "location": "Arsuz (Hatay)",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "ascen",
+    "name": "Ascension",
+    "location": "Ascension",
+    "country": "UK",
+    "gloss": "263"
+  },
+  {
+    "code": "ashk",
+    "name": "Ashkhara",
+    "location": "Ashkhara",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "asto",
+    "name": "Astoria OR",
+    "location": "Astoria OR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "asto2",
+    "name": "Astoria OR",
+    "location": "Astoria OR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "asty",
+    "name": "Astypalaia island",
+    "location": "Astypalaia island",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "atic",
+    "name": "Atico, Arequipa PE",
+    "location": "Atico, Arequipa PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "atka",
+    "name": "Atka, AK",
+    "location": "Atka, AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "auasi",
+    "name": "Auasi",
+    "location": "Auasi",
+    "country": "Samoa",
+    "gloss": ""
+  },
+  {
+    "code": "auct",
+    "name": "Auckland NZ",
+    "location": "Auckland NZ",
+    "country": "New Zealand",
+    "gloss": "127"
+  },
+  {
+    "code": "audi",
+    "name": "Audierne",
+    "location": "Audierne",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "audi2",
+    "name": "Audierne 2",
+    "location": "Audierne 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "aunuu",
+    "name": "Aunuu",
+    "location": "Aunuu",
+    "country": "Samoa",
+    "gloss": ""
+  },
+  {
+    "code": "avon",
+    "name": "Avonmouth Portbury",
+    "location": "Avonmouth Portbury",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "AZ42",
+    "name": "Anzio",
+    "location": "Anzio",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "BA05",
+    "name": "Bari",
+    "location": "Bari",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "baka",
+    "name": "Bakar",
+    "location": "Bakar",
+    "country": "Croatia",
+    "gloss": ""
+  },
+  {
+    "code": "balc",
+    "name": "Ballenas",
+    "location": "Ballenas",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "ball",
+    "name": "Ballyglass pier, Belmullet",
+    "location": "Ballyglass pier, Belmullet",
+    "country": "Ireland",
+    "gloss": ""
+  },
+  {
+    "code": "balt",
+    "name": "Baltra,Galapagos EC",
+    "location": "Baltra,Galapagos EC",
+    "country": "Ecuador",
+    "gloss": "169"
+  },
+  {
+    "code": "bamd",
+    "name": "Baltimore MD",
+    "location": "Baltimore MD",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bame",
+    "name": "Bar Harbor ME",
+    "location": "Bar Harbor ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bame2",
+    "name": "Bar Harbor ME",
+    "location": "Bar Harbor ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bamf",
+    "name": "Bamfield",
+    "location": "Bamfield",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "bang",
+    "name": "Bangor",
+    "location": "Bangor",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "BANSI",
+    "name": "Port of Syahbandar, Pulau Banyak, Aceh",
+    "location": "Port of Syahbandar, Pulau Banyak, Aceh",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "bapj",
+    "name": "Battery Point AU",
+    "location": "Battery Point AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "bara",
+    "name": "Barahona",
+    "location": "Barahona",
+    "country": "Dominican Republic",
+    "gloss": ""
+  },
+  {
+    "code": "barc",
+    "name": "Barcelona",
+    "location": "Barcelona",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "barc2",
+    "name": "Port of Barcelona",
+    "location": "Port of Barcelona",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "barm",
+    "name": "Barmouth",
+    "location": "Barmouth",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "barn",
+    "name": "Burnie Tasmania AU",
+    "location": "Burnie Tasmania AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "bars",
+    "name": "Barseback",
+    "location": "Barseback",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "batr1",
+    "name": "Batroun",
+    "location": "Batroun",
+    "country": "Lebanon",
+    "gloss": ""
+  },
+  {
+    "code": "bayo",
+    "name": "Bayovar,Piura PE",
+    "location": "Bayovar,Piura PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "bbbc",
+    "name": "Bella Bella",
+    "location": "Bella Bella",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "bbst",
+    "name": "Bermuda Biological Station",
+    "location": "Bermuda Biological Station",
+    "country": "Bermudas",
+    "gloss": "221"
+  },
+  {
+    "code": "bbst2",
+    "name": "Bermuda Biological Station2",
+    "location": "Bermuda Biological Station2",
+    "country": "Bermudas",
+    "gloss": "221"
+  },
+  {
+    "code": "bcar",
+    "name": "Bahía de Caráquez",
+    "location": "Bahía de Caráquez",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "bcon",
+    "name": "Consett Bay Jetty",
+    "location": "Consett Bay Jetty",
+    "country": "Barbados",
+    "gloss": ""
+  },
+  {
+    "code": "bdto",
+    "name": "Bocas Del Toro",
+    "location": "Bocas Del Toro",
+    "country": "Panamá",
+    "gloss": ""
+  },
+  {
+    "code": "bele",
+    "name": "Belém",
+    "location": "Belém",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "bele2",
+    "name": "Porto de Belém",
+    "location": "Porto de Belém",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "benc",
+    "name": "Beaufort NC",
+    "location": "Beaufort NC",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "benc2",
+    "name": "Beaufort NC",
+    "location": "Beaufort NC",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "beno",
+    "name": "Benoa",
+    "location": "Benoa",
+    "country": "Indonesia",
+    "gloss": "49"
+  },
+  {
+    "code": "berg",
+    "name": "Bergen",
+    "location": "Bergen",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "BETSI",
+    "name": "Port of Beo, North Sulawesi",
+    "location": "Port of Beo, North Sulawesi",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "bgct",
+    "name": "Bridgeport CT",
+    "location": "Bridgeport CT",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bgct2",
+    "name": "Bridgeport CT",
+    "location": "Bridgeport CT",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bil3",
+    "name": "Bilbao3",
+    "location": "Bilbao3",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "bitu",
+    "name": "Bitung",
+    "location": "Bitung",
+    "country": "Indonesia",
+    "gloss": "69"
+  },
+  {
+    "code": "blkw",
+    "name": "Blankenberge",
+    "location": "Blankenberge",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "blow",
+    "name": "Blowing Point",
+    "location": "Blowing Point",
+    "country": "Anguilla",
+    "gloss": ""
+  },
+  {
+    "code": "blueb",
+    "name": "Blue Bay",
+    "location": "Blue Bay",
+    "country": "Mauritius",
+    "gloss": ""
+  },
+  {
+    "code": "bmal",
+    "name": "Bahia Malaga",
+    "location": "Bahia Malaga",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "bmda",
+    "name": "Bermuda St Georges",
+    "location": "Bermuda St Georges",
+    "country": "UK",
+    "gloss": "221"
+  },
+  {
+    "code": "bmsa",
+    "name": "Bahia Mansa CL",
+    "location": "Bahia Mansa CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "bmsa2",
+    "name": "Bahia Mansa CL",
+    "location": "Bahia Mansa CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "bmsg",
+    "name": "Bermuda St. George's Cruise Pier",
+    "location": "Bermuda St. George's Cruise Pier",
+    "country": "Bermudas",
+    "gloss": ""
+  },
+  {
+    "code": "bmso",
+    "name": "Bermuda Somerset",
+    "location": "Bermuda Somerset",
+    "country": "Bermudas",
+    "gloss": ""
+  },
+  {
+    "code": "bodo",
+    "name": "Bodø",
+    "location": "Bodø",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "bodr",
+    "name": "Bodrum",
+    "location": "Bodrum",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "boef",
+    "name": "Boefjorden",
+    "location": "Boefjorden",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "bois",
+    "name": "Oistins Jetty",
+    "location": "Oistins Jetty",
+    "country": "Barbados",
+    "gloss": ""
+  },
+  {
+    "code": "boma",
+    "name": "Boston MA",
+    "location": "Boston MA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bon2",
+    "name": "Bonanza2",
+    "location": "Bonanza2",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "bona",
+    "name": "Bonan",
+    "location": "Bonan",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "bork",
+    "name": "Borkum Fischerbalje",
+    "location": "Borkum Fischerbalje",
+    "country": "Germany",
+    "gloss": ""
+  },
+  {
+    "code": "bouc",
+    "name": "Boucau-Bayonne",
+    "location": "Boucau-Bayonne",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "bouc2",
+    "name": "Boucau-Bayonne 2",
+    "location": "Boucau-Bayonne 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "boul",
+    "name": "Boulogne-Sur-Mer",
+    "location": "Boulogne-Sur-Mer",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "boul2",
+    "name": "Boulogne-Sur-Mer 2",
+    "location": "Boulogne-Sur-Mer 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "bour",
+    "name": "Bournemouth",
+    "location": "Bournemouth",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "boye",
+    "name": "Boyeruca CL",
+    "location": "Boyeruca CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "boye2",
+    "name": "Boyeruca CL",
+    "location": "Boyeruca CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "bozy",
+    "name": "Bozyazi",
+    "location": "Bozyazi",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "bres",
+    "name": "Brest",
+    "location": "Brest",
+    "country": "France",
+    "gloss": "242"
+  },
+  {
+    "code": "brid2",
+    "name": "Bridgetown Port",
+    "location": "Bridgetown Port",
+    "country": "Barbados",
+    "gloss": ""
+  },
+  {
+    "code": "BRLT",
+    "name": "Barletta",
+    "location": "Barletta",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "brof",
+    "name": "Brofjorden",
+    "location": "Brofjorden",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "brom",
+    "name": "Broome AU",
+    "location": "Broome AU",
+    "country": "Australia",
+    "gloss": "40"
+  },
+  {
+    "code": "brpt",
+    "name": "Barbers Point",
+    "location": "Barbers Point",
+    "country": "Hawaii",
+    "gloss": ""
+  },
+  {
+    "code": "brsk",
+    "name": "Breskens Handelshaven",
+    "location": "Breskens Handelshaven",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "brur",
+    "name": "Bruravik",
+    "location": "Bruravik",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "bspe",
+    "name": "Speightstown Jetty",
+    "location": "Speightstown Jetty",
+    "country": "Barbados",
+    "gloss": ""
+  },
+  {
+    "code": "btny",
+    "name": "Battery The NY",
+    "location": "Battery The NY",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "btny2",
+    "name": "Battery The NY",
+    "location": "Battery The NY",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "bull",
+    "name": "Bullen Bay",
+    "location": "Bullen Bay",
+    "country": "Curaçao",
+    "gloss": ""
+  },
+  {
+    "code": "busa",
+    "name": "Busan",
+    "location": "Busan",
+    "country": "Korea",
+    "gloss": "84"
+  },
+  {
+    "code": "buve",
+    "name": "Buenaventura",
+    "location": "Buenaventura",
+    "country": "Colombia",
+    "gloss": "170"
+  },
+  {
+    "code": "buve2",
+    "name": "Buenaventura",
+    "location": "Buenaventura",
+    "country": "Colombia",
+    "gloss": "170"
+  },
+  {
+    "code": "buve3",
+    "name": "Buenaventura, Maritime signalling pier",
+    "location": "Buenaventura, Maritime signalling pier",
+    "country": "Colombia",
+    "gloss": "170"
+  },
+  {
+    "code": "CA02",
+    "name": "Cagliari",
+    "location": "Cagliari",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "cabc",
+    "name": "Carrie Bow Cay",
+    "location": "Carrie Bow Cay",
+    "country": "Belize",
+    "gloss": ""
+  },
+  {
+    "code": "cadi1",
+    "name": "Cadiz",
+    "location": "Cadiz",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "cagb",
+    "name": "Grand Cayman, Gun Bay",
+    "location": "Grand Cayman, Gun Bay",
+    "country": "Cayman Islands",
+    "gloss": ""
+  },
+  {
+    "code": "cagt",
+    "name": "Grand Cayman, George Town",
+    "location": "Grand Cayman, George Town",
+    "country": "Cayman Islands",
+    "gloss": ""
+  },
+  {
+    "code": "cala",
+    "name": "Calais",
+    "location": "Calais",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "cala2",
+    "name": "Calais 2",
+    "location": "Calais 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "cald",
+    "name": "Caldera CL",
+    "location": "Caldera CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "cald2",
+    "name": "Caldera CL",
+    "location": "Caldera CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "call",
+    "name": "Callao,La-Punta PE",
+    "location": "Callao,La-Punta PE",
+    "country": "Perú",
+    "gloss": "173"
+  },
+  {
+    "code": "calq",
+    "name": "Calliaqua Coast Guard Base",
+    "location": "Calliaqua Coast Guard Base",
+    "country": "Saint Vincent & Grenadines",
+    "gloss": ""
+  },
+  {
+    "code": "camt",
+    "name": "Lerma Campeche",
+    "location": "Lerma Campeche",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "caph",
+    "name": "Cap-Haïtien",
+    "location": "Cap-Haïtien",
+    "country": "Haïti",
+    "gloss": ""
+  },
+  {
+    "code": "carb",
+    "name": "Carboneras",
+    "location": "Carboneras",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "carg1",
+    "name": "Cartagena",
+    "location": "Cartagena",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "cart",
+    "name": "Cartagena",
+    "location": "Cartagena",
+    "country": "Colombia",
+    "gloss": "207"
+  },
+  {
+    "code": "casc",
+    "name": "Cascais",
+    "location": "Cascais",
+    "country": "Portugal",
+    "gloss": "246"
+  },
+  {
+    "code": "cast",
+    "name": "Castletownbere",
+    "location": "Castletownbere",
+    "country": "Ireland",
+    "gloss": "330"
+  },
+  {
+    "code": "cazul",
+    "name": "Cerro Azul, Cañete PE",
+    "location": "Cerro Azul, Cañete PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "cbmd",
+    "name": "Cambridge MD",
+    "location": "Cambridge MD",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cbmd2",
+    "name": "Cambridge MD",
+    "location": "Cambridge MD",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "ccar",
+    "name": "Ciudad del Cármen, Camp.",
+    "location": "Ciudad del Cármen, Camp.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "cent",
+    "name": "Centuri",
+    "location": "Centuri",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "cent2",
+    "name": "Centuri2",
+    "location": "Centuri2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "CETR",
+    "name": "Cetraro",
+    "location": "Cetraro",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "ceut",
+    "name": "Ceuta",
+    "location": "Ceuta",
+    "country": "Spain",
+    "gloss": "249"
+  },
+  {
+    "code": "ceut2",
+    "name": "Ceuta",
+    "location": "Ceuta",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "CF06",
+    "name": "Carloforte",
+    "location": "Carloforte",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "chala",
+    "name": "Chala,Arequipa,PE",
+    "location": "Chala,Arequipa,PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "chan",
+    "name": "Chancay, Lima PE",
+    "location": "Chancay, Lima PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "char",
+    "name": "Charleston, OR",
+    "location": "Charleston, OR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "char2",
+    "name": "Charleston, OR",
+    "location": "Charleston, OR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "chat",
+    "name": "Chateaubelair",
+    "location": "Chateaubelair",
+    "country": "Saint Vincent & Grenadines",
+    "gloss": ""
+  },
+  {
+    "code": "chenn",
+    "name": "Chennai",
+    "location": "Chennai",
+    "country": "India",
+    "gloss": "34"
+  },
+  {
+    "code": "cher",
+    "name": "Cherbourg",
+    "location": "Cherbourg",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "cher2",
+    "name": "Cherbourg 2",
+    "location": "Cherbourg 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "chia",
+    "name": "Puerto Chiapas/Madero",
+    "location": "Puerto Chiapas/Madero",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "chij",
+    "name": "Chichijima",
+    "location": "Chichijima",
+    "country": "Japan",
+    "gloss": "103"
+  },
+  {
+    "code": "chim2",
+    "name": "Chimbote,Ancash  PE",
+    "location": "Chimbote,Ancash  PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "chimb",
+    "name": "Chimbote,Ancash PE",
+    "location": "Chimbote,Ancash PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "chit",
+    "name": "Owenga, Chatham Island",
+    "location": "Owenga, Chatham Island",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "chnr",
+    "name": "Chañaral CL",
+    "location": "Chañaral CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "chnr2",
+    "name": "Chañaral CL",
+    "location": "Chañaral CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "chrp",
+    "name": "Cherry Point WA",
+    "location": "Cherry Point WA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "chrp2",
+    "name": "Cherry Point WA",
+    "location": "Cherry Point WA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "chrs",
+    "name": "Christmas Island AU",
+    "location": "Christmas Island AU",
+    "country": "Australia",
+    "gloss": "47"
+  },
+  {
+    "code": "chst",
+    "name": "Charleston",
+    "location": "Charleston",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "chuu",
+    "name": "Chuuk",
+    "location": "Chuuk",
+    "country": "Micronesia",
+    "gloss": "116"
+  },
+  {
+    "code": "CI20",
+    "name": "Civitavecchia",
+    "location": "Civitavecchia",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "CIDJI",
+    "name": "Jayanti Beach, West Java",
+    "location": "Jayanti Beach, West Java",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "cili",
+    "name": "Cilacap",
+    "location": "Cilacap",
+    "country": "Indonesia",
+    "gloss": "291"
+  },
+  {
+    "code": "clst",
+    "name": "Celestun, Yuc.",
+    "location": "Celestun, Yuc.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "cmet",
+    "name": "Caleta Meteoro CL",
+    "location": "Caleta Meteoro CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "cmet3",
+    "name": "Caleta Meteoro CL",
+    "location": "Caleta Meteoro CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "cmnj",
+    "name": "Cape May NJ",
+    "location": "Cape May NJ",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cmnj2",
+    "name": "Cape May NJ",
+    "location": "Cape May NJ",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cocb",
+    "name": "Cocos Island AU",
+    "location": "Cocos Island AU",
+    "country": "Australia",
+    "gloss": "46"
+  },
+  {
+    "code": "coch",
+    "name": "Cochin",
+    "location": "Cochin",
+    "country": "India",
+    "gloss": "32"
+  },
+  {
+    "code": "cocos",
+    "name": "Cocos Island",
+    "location": "Cocos Island",
+    "country": "Costa Rica",
+    "gloss": ""
+  },
+  {
+    "code": "coli",
+    "name": "Coliumo CL",
+    "location": "Coliumo CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "coli2",
+    "name": "Coliumo",
+    "location": "Coliumo",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "colo",
+    "name": "Colombo",
+    "location": "Colombo",
+    "country": "Sri Lanka",
+    "gloss": "33"
+  },
+  {
+    "code": "conc",
+    "name": "Concarneau",
+    "location": "Concarneau",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "conc2",
+    "name": "Concarneau 2",
+    "location": "Concarneau 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "cons2",
+    "name": "Constitucion (Chile)",
+    "location": "Constitucion (Chile)",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "const",
+    "name": "Constitucion (Chile)",
+    "location": "Constitucion (Chile)",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "coqu",
+    "name": "Coquimbo CL",
+    "location": "Coquimbo CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "coqu2",
+    "name": "Coquimbo CL",
+    "location": "Coquimbo CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "cor2",
+    "name": "Acoruna",
+    "location": "Acoruna",
+    "country": "Spain",
+    "gloss": "243"
+  },
+  {
+    "code": "cord",
+    "name": "Cordova AK",
+    "location": "Cordova AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cord2",
+    "name": "Cordova AK",
+    "location": "Cordova AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "corr",
+    "name": "Corral CL",
+    "location": "Corral CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "corr2",
+    "name": "Corral CL",
+    "location": "Corral CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "coru",
+    "name": "La Coruña",
+    "location": "La Coruña",
+    "country": "Spain",
+    "gloss": "243"
+  },
+  {
+    "code": "cove",
+    "name": "Coveñas",
+    "location": "Coveñas",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "cpit",
+    "name": "Castlepoint",
+    "location": "Castlepoint",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "cpla",
+    "name": "Calcasieu Pass, LA",
+    "location": "Calcasieu Pass, LA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cpla2",
+    "name": "Calcasieu Pass, LA",
+    "location": "Calcasieu Pass, LA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "CR08",
+    "name": "Crotone",
+    "location": "Crotone",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "crbc",
+    "name": "Campbell River",
+    "location": "Campbell River",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "cres",
+    "name": "Crescent City CA",
+    "location": "Crescent City CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cres2",
+    "name": "Crescent City CA",
+    "location": "Crescent City CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "crnl",
+    "name": "Coronel CL",
+    "location": "Coronel CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "crnl2",
+    "name": "Coronel CL",
+    "location": "Coronel CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "crom",
+    "name": "Cromer",
+    "location": "Cromer",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "csta2",
+    "name": "Constanta2",
+    "location": "Constanta2",
+    "country": "Romania",
+    "gloss": ""
+  },
+  {
+    "code": "csta3",
+    "name": "Constanta",
+    "location": "Constanta",
+    "country": "Romania",
+    "gloss": ""
+  },
+  {
+    "code": "cstr",
+    "name": "Castro CL",
+    "location": "Castro CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "cstr2",
+    "name": "Castro CL",
+    "location": "Castro CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "CT03",
+    "name": "Catania",
+    "location": "Catania",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "cuaj",
+    "name": "Cuajiniquil",
+    "location": "Cuajiniquil",
+    "country": "Costa Rica",
+    "gloss": ""
+  },
+  {
+    "code": "cule",
+    "name": "Culebra Is PR",
+    "location": "Culebra Is PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cule2",
+    "name": "Culebra Is PR",
+    "location": "Culebra Is PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "curri",
+    "name": "Currimao",
+    "location": "Currimao",
+    "country": "Philippines",
+    "gloss": ""
+  },
+  {
+    "code": "cuvie",
+    "name": "Cape Cuvier Wharf",
+    "location": "Cape Cuvier Wharf",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "cuxh",
+    "name": "Cuxhaven",
+    "location": "Cuxhaven",
+    "country": "Germany",
+    "gloss": "284"
+  },
+  {
+    "code": "cwfl",
+    "name": "Clearwater Beach FL",
+    "location": "Clearwater Beach FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cwfl2",
+    "name": "Clearwater Beach FL",
+    "location": "Clearwater Beach FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cwme",
+    "name": "Cutler Farris Wharf, ME",
+    "location": "Cutler Farris Wharf, ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "cwme2",
+    "name": "Cutler Farris Wharf, ME",
+    "location": "Cutler Farris Wharf, ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dacp",
+    "name": "DART South of Acapulco",
+    "location": "DART South of Acapulco",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dacp2",
+    "name": "DART South of Acapulco",
+    "location": "DART South of Acapulco",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dadk",
+    "name": "DART SSE of Adak Island",
+    "location": "DART SSE of Adak Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dadk2",
+    "name": "DART SSE of Adak Island",
+    "location": "DART SSE of Adak Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dakar",
+    "name": "Dakar",
+    "location": "Dakar",
+    "country": "Sénégal",
+    "gloss": "253"
+  },
+  {
+    "code": "danc",
+    "name": "DART SSE of Cordova",
+    "location": "DART SSE of Cordova",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dapi",
+    "name": "DART NW of Apia",
+    "location": "DART NW of Apia",
+    "country": "Samoa",
+    "gloss": ""
+  },
+  {
+    "code": "dapi2",
+    "name": "DART NW of Apia",
+    "location": "DART NW of Apia",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dar2",
+    "name": "DART Arabian Sea",
+    "location": "DART Arabian Sea",
+    "country": "India",
+    "gloss": ""
+  },
+  {
+    "code": "dara",
+    "name": "DART Arabian Sea",
+    "location": "DART Arabian Sea",
+    "country": "India",
+    "gloss": ""
+  },
+  {
+    "code": "darw",
+    "name": "Darwin AU",
+    "location": "Darwin AU",
+    "country": "Australia",
+    "gloss": "62"
+  },
+  {
+    "code": "dat2",
+    "name": "DART E of Boston",
+    "location": "DART E of Boston",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dat3",
+    "name": "DART North of St Thomas",
+    "location": "DART North of St Thomas",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dat4",
+    "name": "DART E of Boston",
+    "location": "DART E of Boston",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dat5",
+    "name": "DART North of St Thomas",
+    "location": "DART North of St Thomas",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "datu",
+    "name": "DART South of Attu",
+    "location": "DART South of Attu",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "datu2",
+    "name": "DART South of Attu",
+    "location": "DART South of Attu",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "davo",
+    "name": "Davao PH",
+    "location": "Davao PH",
+    "country": "Philippines",
+    "gloss": "71"
+  },
+  {
+    "code": "dber",
+    "name": "DART SSW of Hamilton",
+    "location": "DART SSW of Hamilton",
+    "country": "Bermudas",
+    "gloss": ""
+  },
+  {
+    "code": "dber2",
+    "name": "DART SSW of Hamilton",
+    "location": "DART SSW of Hamilton",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dcal",
+    "name": "DART West of Mendocino Bay",
+    "location": "DART West of Mendocino Bay",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dcal2",
+    "name": "DART West of Mendocino Bay",
+    "location": "DART West of Mendocino Bay",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dcar",
+    "name": "DART Southwest of San Juan",
+    "location": "DART Southwest of San Juan",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dcar2",
+    "name": "DART Southwest of San Juan",
+    "location": "DART Southwest of San Juan",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dch2",
+    "name": "DART West of Antofagasta",
+    "location": "DART West of Antofagasta",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dch3",
+    "name": "DART NW of Concepcion",
+    "location": "DART NW of Concepcion",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dch4",
+    "name": "DART West of Antofagasta",
+    "location": "DART West of Antofagasta",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dch5",
+    "name": "DART NW of Concepcion",
+    "location": "DART NW of Concepcion",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dchi",
+    "name": "DART West of Iquique",
+    "location": "DART West of Iquique",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dchi2",
+    "name": "DART West of Iquique",
+    "location": "DART West of Iquique",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dchr",
+    "name": "DART SE of Chirikof Island",
+    "location": "DART SE of Chirikof Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dchr2",
+    "name": "DART SE of Chirikof Island",
+    "location": "DART SE of Chirikof Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dchu",
+    "name": "DART South of Umnak Is",
+    "location": "DART South of Umnak Is",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dchu2",
+    "name": "DART South of Umnak Is",
+    "location": "DART South of Umnak Is",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dcld",
+    "name": "DART West of Caldera",
+    "location": "DART West of Caldera",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dcld2",
+    "name": "DART West of Caldera",
+    "location": "DART West of Caldera",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dcor",
+    "name": "DART ENE of Townsville",
+    "location": "DART ENE of Townsville",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dcor2",
+    "name": "DART ENE of Townsville",
+    "location": "DART ENE of Townsville",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dcr2",
+    "name": "DART NE of Townsville",
+    "location": "DART NE of Townsville",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dcr3",
+    "name": "DART NE of Townsville",
+    "location": "DART NE of Townsville",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "deke",
+    "name": "Dekehtik,Pohnpei FM",
+    "location": "Dekehtik,Pohnpei FM",
+    "country": "Micronesia",
+    "gloss": "115"
+  },
+  {
+    "code": "delf",
+    "name": "Delfzijl",
+    "location": "Delfzijl",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "delo",
+    "name": "Delos Island, Kiklades",
+    "location": "Delos Island, Kiklades",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "denh",
+    "name": "Den Helder",
+    "location": "Den Helder",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "dese",
+    "name": "Puerto Deseado",
+    "location": "Puerto Deseado",
+    "country": "Argentina",
+    "gloss": "190"
+  },
+  {
+    "code": "desh",
+    "name": "Deshaies, Guadeloupe",
+    "location": "Deshaies, Guadeloupe",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "dgal",
+    "name": "DART WNW of Lima",
+    "location": "DART WNW of Lima",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "dgal2",
+    "name": "DART WNW of Lima",
+    "location": "DART WNW of Lima",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dgul",
+    "name": "DART South of New Orleans",
+    "location": "DART South of New Orleans",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dgul2",
+    "name": "DART South of New Orleans",
+    "location": "DART South of New Orleans",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dgum",
+    "name": "DART West of Agana",
+    "location": "DART West of Agana",
+    "country": "Guam",
+    "gloss": ""
+  },
+  {
+    "code": "dgum2",
+    "name": "DART West of Agana",
+    "location": "DART West of Agana",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dhai",
+    "name": "DART West of Vancouver",
+    "location": "DART West of Vancouver",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "dhai2",
+    "name": "DART West of Vancouver",
+    "location": "DART West of Vancouver",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dhaw",
+    "name": "DART West of Kailua-Kona",
+    "location": "DART West of Kailua-Kona",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dhaw2",
+    "name": "DART West of Kailua-Kona",
+    "location": "DART West of Kailua-Kona",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dhnn",
+    "name": "Niterói, RJ",
+    "location": "Niterói, RJ",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "dhon",
+    "name": "DART NE of Guadalcanal",
+    "location": "DART NE of Guadalcanal",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dhon2",
+    "name": "DART NE of Guadalcanal",
+    "location": "DART NE of Guadalcanal",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dial",
+    "name": "Dauphin Island AL",
+    "location": "Dauphin Island AL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "diba",
+    "name": "Diba",
+    "location": "Diba",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "diel",
+    "name": "Dielette",
+    "location": "Dielette",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "diel2",
+    "name": "Dielette 2",
+    "location": "Dielette 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "diep",
+    "name": "Dieppe",
+    "location": "Dieppe",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "diep2",
+    "name": "Dieppe 2",
+    "location": "Dieppe 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "djun",
+    "name": "DART SW of Juneau",
+    "location": "DART SW of Juneau",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "djun2",
+    "name": "DART SW of Juneau",
+    "location": "DART SW of Juneau",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "djve",
+    "name": "DART NNE of Dampier",
+    "location": "DART NNE of Dampier",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "djve2",
+    "name": "DART NNE of Dampier",
+    "location": "DART NNE of Dampier",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "djvw",
+    "name": "DART NW of Dampier",
+    "location": "DART NW of Dampier",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "djvw2",
+    "name": "DART NW of Dampier",
+    "location": "DART NW of Dampier",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dkam",
+    "name": "DART SE of Kamchatka Peninsula",
+    "location": "DART SE of Kamchatka Peninsula",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkam2",
+    "name": "DART SE of Kamchatka Peninsula",
+    "location": "DART SE of Kamchatka Peninsula",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkod",
+    "name": "DART SE of Kodiak",
+    "location": "DART SE of Kodiak",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkod2",
+    "name": "DART SE of Kodiak",
+    "location": "DART SE of Kodiak",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkur",
+    "name": "DART SE of Kuril Is.",
+    "location": "DART SE of Kuril Is.",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkur2",
+    "name": "DART SE of Kuril Is.",
+    "location": "DART SE of Kuril Is.",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkwa",
+    "name": "DART ESE of Saipan",
+    "location": "DART ESE of Saipan",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dkwa2",
+    "name": "DART ESE of Saipan",
+    "location": "DART ESE of Saipan",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dlpr",
+    "name": "Deal Pier",
+    "location": "Deal Pier",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "dmaa",
+    "name": "DART West of Manta",
+    "location": "DART West of Manta",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "dmnz",
+    "name": "DART SW of Manzanillo",
+    "location": "DART SW of Manzanillo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dmnz2",
+    "name": "DART SW of Manzanillo",
+    "location": "DART SW of Manzanillo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dmon",
+    "name": "DART SE of Fire Island",
+    "location": "DART SE of Fire Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dmon2",
+    "name": "DART SE of Fire Island",
+    "location": "DART SE of Fire Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dni2",
+    "name": "DART Bay of Bengal",
+    "location": "DART Bay of Bengal",
+    "country": "India",
+    "gloss": ""
+  },
+  {
+    "code": "dni4",
+    "name": "DART Bay of Bengal",
+    "location": "DART Bay of Bengal",
+    "country": "India",
+    "gloss": ""
+  },
+  {
+    "code": "dni6",
+    "name": "DART Bay of Bengal IN4",
+    "location": "DART Bay of Bengal IN4",
+    "country": "India",
+    "gloss": ""
+  },
+  {
+    "code": "dni7",
+    "name": "DART Bay of Bengal",
+    "location": "DART Bay of Bengal",
+    "country": "India",
+    "gloss": ""
+  },
+  {
+    "code": "dnic",
+    "name": "DART WNW of Phuket",
+    "location": "DART WNW of Phuket",
+    "country": "Thailand",
+    "gloss": ""
+  },
+  {
+    "code": "dnic2",
+    "name": "DART WNW of Phuket",
+    "location": "DART WNW of Phuket",
+    "country": "Thailand",
+    "gloss": ""
+  },
+  {
+    "code": "dnwp",
+    "name": "DART South of Amchitka",
+    "location": "DART South of Amchitka",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dnwp2",
+    "name": "DART South of Amchitka",
+    "location": "DART South of Amchitka",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dnza",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnza2",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzb",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzb2",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzc",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzc2",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzd",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzd2",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnze",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnze2",
+    "name": "DART New Zealand E Coast",
+    "location": "DART New Zealand E Coast",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzf",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzf2",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzg",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzg2",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzh",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzh2",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzi",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzi2",
+    "name": "DART Tonga",
+    "location": "DART Tonga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzj",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzj2",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzk",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzk2",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzl",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dnzl2",
+    "name": "DART New Zealand",
+    "location": "DART New Zealand",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "dorg",
+    "name": "DART West of Coos Bay",
+    "location": "DART West of Coos Bay",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dorg2",
+    "name": "DART West of Coos Bay",
+    "location": "DART West of Coos Bay",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dove",
+    "name": "Dover",
+    "location": "Dover",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "dpan",
+    "name": "DART WSW of Panama City",
+    "location": "DART WSW of Panama City",
+    "country": "Panamá",
+    "gloss": ""
+  },
+  {
+    "code": "dpan2",
+    "name": "DART WSW of Panama City",
+    "location": "DART WSW of Panama City",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dpeb",
+    "name": "DART West of Pedernales",
+    "location": "DART West of Pedernales",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "dphi",
+    "name": "DART NE of Manila",
+    "location": "DART NE of Manila",
+    "country": "Philippines",
+    "gloss": ""
+  },
+  {
+    "code": "dpnc",
+    "name": "Duck Pier NC",
+    "location": "Duck Pier NC",
+    "country": "USA",
+    "gloss": "219"
+  },
+  {
+    "code": "dpor",
+    "name": "DART West of Astoria",
+    "location": "DART West of Astoria",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dryu",
+    "name": "DART Southeast of Miyazaki",
+    "location": "DART Southeast of Miyazaki",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dryu2",
+    "name": "DART Southeast of Miyazaki",
+    "location": "DART Southeast of Miyazaki",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dsai",
+    "name": "DART ENE of Saipan",
+    "location": "DART ENE of Saipan",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dsai2",
+    "name": "DART ENE of Saipan",
+    "location": "DART ENE of Saipan",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dsea",
+    "name": "DART WNW of Seattle",
+    "location": "DART WNW of Seattle",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dsea2",
+    "name": "DART WNW of Seattle",
+    "location": "DART WNW of Seattle",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dsen",
+    "name": "DART NE of Tokyo",
+    "location": "DART NE of Tokyo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dsen2",
+    "name": "DART NE of Tokyo",
+    "location": "DART NE of Tokyo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dshu",
+    "name": "DART SE of Shumagin Is",
+    "location": "DART SE of Shumagin Is",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dstl",
+    "name": "DART NNE of Santo Domingo",
+    "location": "DART NNE of Santo Domingo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dstl2",
+    "name": "DART NNE of Santo Domingo",
+    "location": "DART NNE of Santo Domingo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dta3",
+    "name": "DART ESE of Hobart",
+    "location": "DART ESE of Hobart",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dta4",
+    "name": "DART ESE of Hobart",
+    "location": "DART ESE of Hobart",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dtai",
+    "name": "DART NW of Phuket",
+    "location": "DART NW of Phuket",
+    "country": "Thailand",
+    "gloss": ""
+  },
+  {
+    "code": "dtas",
+    "name": "DART ESE of Hobart",
+    "location": "DART ESE of Hobart",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dtas2",
+    "name": "DART ESE of Hobart",
+    "location": "DART ESE of Hobart",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "dtok",
+    "name": "DART ESE of Tokyo",
+    "location": "DART ESE of Tokyo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dtok2",
+    "name": "DART ESE of Tokyo",
+    "location": "DART ESE of Tokyo",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dtru",
+    "name": "DART North of Manus Is",
+    "location": "DART North of Manus Is",
+    "country": "Papua New Guinea",
+    "gloss": ""
+  },
+  {
+    "code": "dtru2",
+    "name": "DART North of Manus Is",
+    "location": "DART North of Manus Is",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dumo",
+    "name": "Dumont d'Urville",
+    "location": "Dumont d'Urville",
+    "country": "Antarctica",
+    "gloss": "131"
+  },
+  {
+    "code": "duni",
+    "name": "DART SSE of Dutch Harbor",
+    "location": "DART SSE of Dutch Harbor",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "duni2",
+    "name": "DART SSE of Dutch Harbor",
+    "location": "DART SSE of Dutch Harbor",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "dunk",
+    "name": "Dunkerque",
+    "location": "Dunkerque",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "dunk2",
+    "name": "Dunkerque 2",
+    "location": "Dunkerque 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "duqm",
+    "name": "Duqm",
+    "location": "Duqm",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "dutc",
+    "name": "Dutch Hbr Unalaska",
+    "location": "Dutch Hbr Unalaska",
+    "country": "USA",
+    "gloss": "102"
+  },
+  {
+    "code": "dutc2",
+    "name": "Dutch Hbr Unalaska",
+    "location": "Dutch Hbr Unalaska",
+    "country": "USA",
+    "gloss": "102"
+  },
+  {
+    "code": "dval",
+    "name": "DART NW of Valparaiso",
+    "location": "DART NW of Valparaiso",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dval2",
+    "name": "DART NW of Valparaiso",
+    "location": "DART NW of Valparaiso",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "dzao",
+    "name": "Dzaoudzi (Mayotte)",
+    "location": "Dzaoudzi (Mayotte)",
+    "country": "France",
+    "gloss": "96"
+  },
+  {
+    "code": "dzao2",
+    "name": "Dzaoudzi (Mayotte) 2",
+    "location": "Dzaoudzi (Mayotte) 2",
+    "country": "France",
+    "gloss": "96"
+  },
+  {
+    "code": "e4bs",
+    "name": "E4 Bron Sodertalje",
+    "location": "E4 Bron Sodertalje",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "east",
+    "name": "Isla de Pascua (Rapa Nui)",
+    "location": "Isla de Pascua (Rapa Nui)",
+    "country": "Chile",
+    "gloss": "137"
+  },
+  {
+    "code": "east2",
+    "name": "Isla de Pascua (Rapa Nui)",
+    "location": "Isla de Pascua (Rapa Nui)",
+    "country": "Chile",
+    "gloss": "137"
+  },
+  {
+    "code": "efjm",
+    "name": "Errol Flynn Marina Portland",
+    "location": "Errol Flynn Marina Portland",
+    "country": "Jamaica",
+    "gloss": "210"
+  },
+  {
+    "code": "elak",
+    "name": "Elfin Cove AK",
+    "location": "Elfin Cove AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "elak2",
+    "name": "Elfin Cove AK",
+    "location": "Elfin Cove AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "elpo",
+    "name": "El Porvenir",
+    "location": "El Porvenir",
+    "country": "Panamá",
+    "gloss": ""
+  },
+  {
+    "code": "enap",
+    "name": "Arica CL (Sitio 7)",
+    "location": "Arica CL (Sitio 7)",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "enap2",
+    "name": "Arica (Sitio 7)",
+    "location": "Arica (Sitio 7)",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ENGSI",
+    "name": "Port of Malakoni, Enggano, Bengkulu",
+    "location": "Port of Malakoni, Enggano, Bengkulu",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "epme",
+    "name": "East Port ME",
+    "location": "East Port ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "epme2",
+    "name": "East Port ME",
+    "location": "East Port ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "erdek",
+    "name": "Erdek",
+    "location": "Erdek",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "erdem",
+    "name": "Erdemli",
+    "location": "Erdemli",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "esbj",
+    "name": "Esbjerg",
+    "location": "Esbjerg",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "esme",
+    "name": "Esmeraldas",
+    "location": "Esmeraldas",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "espe",
+    "name": "Esperance AU",
+    "location": "Esperance AU",
+    "country": "Australia",
+    "gloss": "54"
+  },
+  {
+    "code": "euro",
+    "name": "Europlatform",
+    "location": "Europlatform",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "exmt",
+    "name": "Exmouth Marina",
+    "location": "Exmouth Marina",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "faja",
+    "name": "Fajardo PR",
+    "location": "Fajardo PR",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "falk",
+    "name": "Falkenberg",
+    "location": "Falkenberg",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "fbfl",
+    "name": "Fernadina Beach FL",
+    "location": "Fernadina Beach FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "fbfl2",
+    "name": "Fernadina Beach FL",
+    "location": "Fernadina Beach FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "fer1",
+    "name": "Ferrol1",
+    "location": "Ferrol1",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "fer2",
+    "name": "Ferrol2",
+    "location": "Ferrol2",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "ferg",
+    "name": "Cape Ferguson AU",
+    "location": "Cape Ferguson AU",
+    "country": "Australia",
+    "gloss": "60"
+  },
+  {
+    "code": "ffcj",
+    "name": "Flying Fish Cove Jetty Christmas Is AU",
+    "location": "Flying Fish Cove Jetty Christmas Is AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "figu",
+    "name": "La Figueirette",
+    "location": "La Figueirette",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "figu2",
+    "name": "La Figueirette2",
+    "location": "La Figueirette2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "fish",
+    "name": "Fishguard",
+    "location": "Fishguard",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "flam",
+    "name": "Flamingo Marina",
+    "location": "Flamingo Marina",
+    "country": "Costa Rica",
+    "gloss": ""
+  },
+  {
+    "code": "fmfl",
+    "name": "Fort Myers FL",
+    "location": "Fort Myers FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "fmfl2",
+    "name": "Fort Myers FL",
+    "location": "Fort Myers FL",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "fong",
+    "name": "Fongafale TV",
+    "location": "Fongafale TV",
+    "country": "Tuvalu Islands",
+    "gloss": "121"
+  },
+  {
+    "code": "form",
+    "name": "Formentera",
+    "location": "Formentera",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "fors",
+    "name": "Forsmark",
+    "location": "Forsmark",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "fort",
+    "name": "Fortaleza",
+    "location": "Fortaleza",
+    "country": "Brasil",
+    "gloss": "336"
+  },
+  {
+    "code": "fort2",
+    "name": "Porto de Mucuripe",
+    "location": "Porto de Mucuripe",
+    "country": "Brasil",
+    "gloss": "336"
+  },
+  {
+    "code": "fpga",
+    "name": "Fort Pulaski GA",
+    "location": "Fort Pulaski GA",
+    "country": "USA",
+    "gloss": "289"
+  },
+  {
+    "code": "fpga2",
+    "name": "Fort Pulaski GA",
+    "location": "Fort Pulaski GA",
+    "country": "USA",
+    "gloss": "289"
+  },
+  {
+    "code": "fpnt",
+    "name": "Ft Point,San Fran",
+    "location": "Ft Point,San Fran",
+    "country": "USA",
+    "gloss": "158"
+  },
+  {
+    "code": "fpnt2",
+    "name": "Ft Point,San Fran",
+    "location": "Ft Point,San Fran",
+    "country": "USA",
+    "gloss": "158"
+  },
+  {
+    "code": "fred",
+    "name": "Fredericia",
+    "location": "Fredericia",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "freh",
+    "name": "Frederikshavn",
+    "location": "Frederikshavn",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "fren",
+    "name": "Tern,Fr. Frigate US",
+    "location": "Tern,Fr. Frigate US",
+    "country": "USA",
+    "gloss": "107"
+  },
+  {
+    "code": "frot",
+    "name": "Mausund",
+    "location": "Mausund",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "ftfr",
+    "name": "Fort-de-France, Martinique",
+    "location": "Fort-de-France, Martinique",
+    "country": "France",
+    "gloss": "338"
+  },
+  {
+    "code": "ftfr2",
+    "name": "Fort-de-France, Martinique 2",
+    "location": "Fort-de-France, Martinique 2",
+    "country": "France",
+    "gloss": "338"
+  },
+  {
+    "code": "fue2",
+    "name": "Fuerteventura",
+    "location": "Fuerteventura",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "fuer2",
+    "name": "Puerto del Rosario, Fuerteventura",
+    "location": "Puerto del Rosario, Fuerteventura",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "fuka",
+    "name": "Fukaura",
+    "location": "Fukaura",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "furu",
+    "name": "Furuogrund",
+    "location": "Furuogrund",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "futu",
+    "name": "Leava (Futuna Island, Wallis & Futuna)",
+    "location": "Leava (Futuna Island, Wallis & Futuna)",
+    "country": "France",
+    "gloss": "353"
+  },
+  {
+    "code": "fyns",
+    "name": "Fynshav",
+    "location": "Fynshav",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "GA37",
+    "name": "Gaeta",
+    "location": "Gaeta",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "gale",
+    "name": "Galeota",
+    "location": "Galeota",
+    "country": "Trinidad & Tobago",
+    "gloss": ""
+  },
+  {
+    "code": "gamb",
+    "name": "Rikitea (French Polynesia, Gambier, Mangareva)",
+    "location": "Rikitea (French Polynesia, Gambier, Mangareva)",
+    "country": "France",
+    "gloss": "138"
+  },
+  {
+    "code": "gand",
+    "name": "Gandia",
+    "location": "Gandia",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "ganm",
+    "name": "Gan",
+    "location": "Gan",
+    "country": "Maldive Islands",
+    "gloss": "27"
+  },
+  {
+    "code": "gara1",
+    "name": "Garachico (Tenerife)",
+    "location": "Garachico (Tenerife)",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "garc",
+    "name": "Diego Garcia",
+    "location": "Diego Garcia",
+    "country": "UK",
+    "gloss": "26"
+  },
+  {
+    "code": "gbit",
+    "name": "Great Barrier Is",
+    "location": "Great Barrier Is",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "gcsb",
+    "name": "Gold Coast Sand Bypass Jetty",
+    "location": "Gold Coast Sand Bypass Jetty",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "GE25",
+    "name": "Genova",
+    "location": "Genova",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "geds",
+    "name": "Gedser",
+    "location": "Gedser",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "GESJI",
+    "name": "Gesing Beach, Panggang, Yogyakarta",
+    "location": "Gesing Beach, Panggang, Yogyakarta",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "GI20",
+    "name": "Ginostra (Isola di Stromboli)",
+    "location": "Ginostra (Isola di Stromboli)",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "gibr3",
+    "name": "Gibraltar",
+    "location": "Gibraltar",
+    "country": "UK",
+    "gloss": "248"
+  },
+  {
+    "code": "gij2",
+    "name": "Gijon",
+    "location": "Gijon",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "gila",
+    "name": "Grand Isle, LA",
+    "location": "Grand Isle, LA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "gist",
+    "name": "Gisborne",
+    "location": "Gisborne",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "goag",
+    "name": "Goteborg Agnesberg",
+    "location": "Goteborg Agnesberg",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "goer",
+    "name": "Goteborg Eriksberg",
+    "location": "Goteborg Eriksberg",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "gohi",
+    "name": "Göteborg-Hisingsbron",
+    "location": "Göteborg-Hisingsbron",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "gokc",
+    "name": "Gokceada",
+    "location": "Gokceada",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "gokr",
+    "name": "Goteborg Krossholmen",
+    "location": "Goteborg Krossholmen",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "golf",
+    "name": "Golfito",
+    "location": "Golfito",
+    "country": "Costa Rica",
+    "gloss": ""
+  },
+  {
+    "code": "goti",
+    "name": "Goteborg Tingstadstunneln",
+    "location": "Goteborg Tingstadstunneln",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "gpab",
+    "name": "Geraldton AU",
+    "location": "Geraldton AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "gptx",
+    "name": "Galveston Pier TX",
+    "location": "Galveston Pier TX",
+    "country": "USA",
+    "gloss": "217"
+  },
+  {
+    "code": "greg",
+    "name": "Bahia Gregorio CL",
+    "location": "Bahia Gregorio CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "greg2",
+    "name": "Bahia Gregorio CL",
+    "location": "Bahia Gregorio CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "GRJJI",
+    "name": "Port of Grajagan, East Java",
+    "location": "Port of Grajagan, East Java",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "groo",
+    "name": "Groote Eylandt",
+    "location": "Groote Eylandt",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "gtdpr",
+    "name": "Guayanilla, Puerto Rico",
+    "location": "Guayanilla, Puerto Rico",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "guam",
+    "name": "Guam (Apra Harbor)",
+    "location": "Guam (Apra Harbor)",
+    "country": "USA",
+    "gloss": "149"
+  },
+  {
+    "code": "guam2",
+    "name": "Guam (Apra Harbor)",
+    "location": "Guam (Apra Harbor)",
+    "country": "USA",
+    "gloss": "149"
+  },
+  {
+    "code": "gyer",
+    "name": "Guayaquil - Río Guayas",
+    "location": "Guayaquil - Río Guayas",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "hako",
+    "name": "Hakodate",
+    "location": "Hakodate",
+    "country": "Japan",
+    "gloss": "88"
+  },
+  {
+    "code": "halei",
+    "name": "Haleiwa Hbr",
+    "location": "Haleiwa Hbr",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "halm",
+    "name": "Halmstad",
+    "location": "Halmstad",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "hamm",
+    "name": "Hammerfest",
+    "location": "Hammerfest",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "hana",
+    "name": "Hanasaki",
+    "location": "Hanasaki",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "hani",
+    "name": "Hanimadhoo",
+    "location": "Hanimadhoo",
+    "country": "Maldive Islands",
+    "gloss": ""
+  },
+  {
+    "code": "hanl",
+    "name": "Hanalei, HI",
+    "location": "Hanalei, HI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "hanst",
+    "name": "Hanstholm",
+    "location": "Hanstholm",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "harl",
+    "name": "Harlingen",
+    "location": "Harlingen",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "hars",
+    "name": "Harstad",
+    "location": "Harstad",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "harw",
+    "name": "Harwich",
+    "location": "Harwich",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "hasp",
+    "name": "Hastings Pier",
+    "location": "Hastings Pier",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "hbay",
+    "name": "Herne Bay",
+    "location": "Herne Bay",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "heeia",
+    "name": "Heeia Kea Hbr",
+    "location": "Heeia Kea Hbr",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "heim",
+    "name": "Heimsjøen",
+    "location": "Heimsjøen",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "helg",
+    "name": "Helgoland Binnenhafen",
+    "location": "Helgoland Binnenhafen",
+    "country": "Germany",
+    "gloss": ""
+  },
+  {
+    "code": "helgz",
+    "name": "Helgeroa",
+    "location": "Helgeroa",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "hels",
+    "name": "Helsingborg",
+    "location": "Helsingborg",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "hens",
+    "name": "Henslung Cove",
+    "location": "Henslung Cove",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "herb",
+    "name": "L'Herbaudière",
+    "location": "L'Herbaudière",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "herb2",
+    "name": "L'Herbaudière 2",
+    "location": "L'Herbaudière 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "heys",
+    "name": "Heysham",
+    "location": "Heysham",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "hie2",
+    "name": "ElHierro",
+    "location": "ElHierro",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "hien",
+    "name": "Hienghene (New Caledonia)",
+    "location": "Hienghene (New Caledonia)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "hien2",
+    "name": "Hienghene 2 (New Caledonia)",
+    "location": "Hienghene 2 (New Caledonia)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "hill",
+    "name": "Hillarys Harbor AU",
+    "location": "Hillarys Harbor AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "hilo",
+    "name": "Hilo,Hawaii",
+    "location": "Hilo,Hawaii",
+    "country": "USA",
+    "gloss": "287"
+  },
+  {
+    "code": "hilo2",
+    "name": "Hilo, Hawaii",
+    "location": "Hilo, Hawaii",
+    "country": "USA",
+    "gloss": "287"
+  },
+  {
+    "code": "hink",
+    "name": "Hinkley Point",
+    "location": "Hinkley Point",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "hirt",
+    "name": "Hirtshals",
+    "location": "Hirtshals",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "hiva",
+    "name": "Hiva Oa (Marquesas, French Polynesia)",
+    "location": "Hiva Oa (Marquesas, French Polynesia)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "hmda",
+    "name": "Hamada",
+    "location": "Hamada",
+    "country": "Japan",
+    "gloss": "326"
+  },
+  {
+    "code": "hoek",
+    "name": "Hoek van Holland",
+    "location": "Hoek van Holland",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "hoko",
+    "name": "Honokohau Harbor, Hawaii",
+    "location": "Honokohau Harbor, Hawaii",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "holm",
+    "name": "Holmsund",
+    "location": "Holmsund",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "holy2",
+    "name": "Holyhead2",
+    "location": "Holyhead2",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "honn",
+    "name": "Honningsvåg",
+    "location": "Honningsvåg",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "hono",
+    "name": "Honolulu,Oahu",
+    "location": "Honolulu,Oahu",
+    "country": "USA",
+    "gloss": "108"
+  },
+  {
+    "code": "hono2",
+    "name": "Honolulu, Oahu",
+    "location": "Honolulu, Oahu",
+    "country": "USA",
+    "gloss": "108"
+  },
+  {
+    "code": "horn",
+    "name": "Hörnum",
+    "location": "Hörnum",
+    "country": "Germany",
+    "gloss": ""
+  },
+  {
+    "code": "hornb",
+    "name": "Hornbaek",
+    "location": "Hornbaek",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "huach",
+    "name": "Huacho,Lima PE",
+    "location": "Huacho,Lima PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "huahi",
+    "name": "Huahine island (Society Islands, French Polynesia)",
+    "location": "Huahine island (Society Islands, French Polynesia)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "huarm",
+    "name": "Huarmey,Ancash PE",
+    "location": "Huarmey,Ancash PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "huas",
+    "name": "Huasco",
+    "location": "Huasco",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "huas2",
+    "name": "Huasco",
+    "location": "Huasco",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "huat",
+    "name": "Huatulco",
+    "location": "Huatulco",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "huat2",
+    "name": "Huatulco",
+    "location": "Huatulco",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "huel",
+    "name": "Huelva5",
+    "location": "Huelva5",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "iaix",
+    "name": "Ile d'Aix",
+    "location": "Ile d'Aix",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ibiz",
+    "name": "Ibiza2",
+    "location": "Ibiza2",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "iclr",
+    "name": "Isla Clarion",
+    "location": "Isla Clarion",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "iera2",
+    "name": "Ierapetra, Crete",
+    "location": "Ierapetra, Crete",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "igne",
+    "name": "Igneada",
+    "location": "Igneada",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "iler",
+    "name": "Ile Royale, Kourou, French Guiana",
+    "location": "Ile Royale, Kourou, French Guiana",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ilfa",
+    "name": "Ilfracombe",
+    "location": "Ilfracombe",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "ilha",
+    "name": "Ilhabela, SP",
+    "location": "Ilhabela, SP",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "ilom",
+    "name": "Ilo,Moquegua PE",
+    "location": "Ilo,Moquegua PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "ilom2",
+    "name": "Ilo,Moquegua PE",
+    "location": "Ilo,Moquegua PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "IM01",
+    "name": "Imperia",
+    "location": "Imperia",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "imbi",
+    "name": "Imbituba",
+    "location": "Imbituba",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "imbt",
+    "name": "Imbituba2",
+    "location": "Imbituba2",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "imbt2",
+    "name": "Porto de Imbituba",
+    "location": "Porto de Imbituba",
+    "country": "Brasil",
+    "gloss": "351"
+  },
+  {
+    "code": "imek",
+    "name": "Imekang",
+    "location": "Imekang",
+    "country": "Palau Islands",
+    "gloss": ""
+  },
+  {
+    "code": "immi",
+    "name": "Immingham",
+    "location": "Immingham",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "imuj",
+    "name": "Isla Mujeres, Q. R.",
+    "location": "Isla Mujeres, Q. R.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "imuj2",
+    "name": "Isla Mujeres2",
+    "location": "Isla Mujeres2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "inav",
+    "name": "Isla Naval",
+    "location": "Isla Naval",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "inav2",
+    "name": "Isla Naval",
+    "location": "Isla Naval",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "iqui",
+    "name": "Iquique CL",
+    "location": "Iquique CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "iqui2",
+    "name": "Iquique CL",
+    "location": "Iquique CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "isab",
+    "name": "Isabel Segunda",
+    "location": "Isabel Segunda",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "isfu",
+    "name": "Isla Fuerte",
+    "location": "Isla Fuerte",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "ishig",
+    "name": "Ishigakijima",
+    "location": "Ishigakijima",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "IsHor",
+    "name": "Isla Hormiga,Lima PE",
+    "location": "Isla Hormiga,Lima PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "ista",
+    "name": "Istanbul",
+    "location": "Istanbul",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "itea",
+    "name": "Itea, Central Greece",
+    "location": "Itea, Central Greece",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "jack",
+    "name": "Jackson Bay",
+    "location": "Jackson Bay",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "JBTT",
+    "name": "Jackson Bay",
+    "location": "Jackson Bay",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "jers",
+    "name": "Jersey",
+    "location": "Jersey",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "john",
+    "name": "Johnston US",
+    "location": "Johnston US",
+    "country": "USA",
+    "gloss": "109"
+  },
+  {
+    "code": "juac",
+    "name": "Juanchaco",
+    "location": "Juanchaco",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "juan",
+    "name": "Juan Fernandez - Robinson Crusoe (Chile)",
+    "location": "Juan Fernandez - Robinson Crusoe (Chile)",
+    "country": "Chile",
+    "gloss": "176"
+  },
+  {
+    "code": "juan2",
+    "name": "Juan Fernandez - Robinson Crusoe (Chile)",
+    "location": "Juan Fernandez - Robinson Crusoe (Chile)",
+    "country": "Chile",
+    "gloss": "176"
+  },
+  {
+    "code": "jute",
+    "name": "Juten",
+    "location": "Juten",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "kabe",
+    "name": "Kabelvåg",
+    "location": "Kabelvåg",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "kahu",
+    "name": "Kahului, Maui",
+    "location": "Kahului, Maui",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "kahu2",
+    "name": "Kahului, Maui",
+    "location": "Kahului, Maui",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "kait",
+    "name": "Kaikoura",
+    "location": "Kaikoura",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "kaka",
+    "name": "Kalix Karlsborg",
+    "location": "Kalix Karlsborg",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "kala",
+    "name": "Kalamata",
+    "location": "Kalamata",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kalit",
+    "name": "Kalix Storon",
+    "location": "Kalix Storon",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "kalm",
+    "name": "Kalmar",
+    "location": "Kalmar",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "kalt",
+    "name": "Kalathos, Rhodes, South Aegean",
+    "location": "Kalathos, Rhodes, South Aegean",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kame",
+    "name": "Kamesang",
+    "location": "Kamesang",
+    "country": "Palau Islands",
+    "gloss": ""
+  },
+  {
+    "code": "kant",
+    "name": "Kanton KI",
+    "location": "Kanton KI",
+    "country": "Kiribati",
+    "gloss": "145"
+  },
+  {
+    "code": "kapi",
+    "name": "Kapingamarangi FM",
+    "location": "Kapingamarangi FM",
+    "country": "Micronesia",
+    "gloss": "117"
+  },
+  {
+    "code": "karl",
+    "name": "Karlshamn",
+    "location": "Karlshamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "karp",
+    "name": "Karpathos Island, South Aegean",
+    "location": "Karpathos Island, South Aegean",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kaso2",
+    "name": "Kasos Island, South Aegean",
+    "location": "Kasos Island, South Aegean",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kata",
+    "name": "Katakolo",
+    "location": "Katakolo",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kaun",
+    "name": "Kaunakakai, Hawaii",
+    "location": "Kaunakakai, Hawaii",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "kawa",
+    "name": "Kawaihae, Hawaii",
+    "location": "Kawaihae, Hawaii",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "kawa2",
+    "name": "Kawaihae, Hawaii",
+    "location": "Kawaihae, Hawaii",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "keehi",
+    "name": "Keehi Hbr",
+    "location": "Keehi Hbr",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "kepo1",
+    "name": "King Edward Point",
+    "location": "King Edward Point",
+    "country": "UK",
+    "gloss": "187"
+  },
+  {
+    "code": "kerg",
+    "name": "Kerguelen Island",
+    "location": "Kerguelen Island",
+    "country": "France",
+    "gloss": "23"
+  },
+  {
+    "code": "kerg2",
+    "name": "Kerguelen Island",
+    "location": "Kerguelen Island",
+    "country": "France",
+    "gloss": "23"
+  },
+  {
+    "code": "khol",
+    "name": "Kholmsk",
+    "location": "Kholmsk",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "kiel",
+    "name": "LT Kiel",
+    "location": "LT Kiel",
+    "country": "Germany",
+    "gloss": ""
+  },
+  {
+    "code": "kinl",
+    "name": "Kinlochbervie",
+    "location": "Kinlochbervie",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "kisr",
+    "name": "Salmiya - KWT",
+    "location": "Salmiya - KWT",
+    "country": "Kuwait",
+    "gloss": ""
+  },
+  {
+    "code": "kiss",
+    "name": "Kissamos, Crete,",
+    "location": "Kissamos, Crete,",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kjni",
+    "name": "Kingston Jetty Norfolk Is",
+    "location": "Kingston Jetty Norfolk Is",
+    "country": "Norfolk Island",
+    "gloss": ""
+  },
+  {
+    "code": "klag",
+    "name": "Klagshamn",
+    "location": "Klagshamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "KMMSI",
+    "name": "Port of Kema Fishing, North Sulawesi",
+    "location": "Port of Kema Fishing, North Sulawesi",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "kobe",
+    "name": "Kobenhavn",
+    "location": "Kobenhavn",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "kodi",
+    "name": "Kodiak Island, AK",
+    "location": "Kodiak Island, AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "kodi2",
+    "name": "Kodiak Island, AK",
+    "location": "Kodiak Island, AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "koli",
+    "name": "Kolinamil, Jakarta Port",
+    "location": "Kolinamil, Jakarta Port",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "kopi",
+    "name": "Kokkinos Pirgos, Crete",
+    "location": "Kokkinos Pirgos, Crete",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "koro",
+    "name": "Koroni, Peloponnese",
+    "location": "Koroni, Peloponnese",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kors",
+    "name": "Korsakov",
+    "location": "Korsakov",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "korso",
+    "name": "Korsor",
+    "location": "Korsor",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "kos3",
+    "name": "Kos, South Aegean",
+    "location": "Kos, South Aegean",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "kris",
+    "name": "Kristiansund",
+    "location": "Kristiansund",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "kung",
+    "name": "Kungsholmsfort",
+    "location": "Kungsholmsfort",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "kungr",
+    "name": "Kungsvik",
+    "location": "Kungsvik",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "kuri",
+    "name": "Kuril'sk",
+    "location": "Kuril'sk",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "kush",
+    "name": "Kushiro",
+    "location": "Kushiro",
+    "country": "Japan",
+    "gloss": "89"
+  },
+  {
+    "code": "kusm",
+    "name": "Kushimoto",
+    "location": "Kushimoto",
+    "country": "Japan",
+    "gloss": "85"
+  },
+  {
+    "code": "KUTBI",
+    "name": "Pier of PPI Kedonganan, Bali",
+    "location": "Pier of PPI Kedonganan, Bali",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "kwaj",
+    "name": "Kwajalein MH",
+    "location": "Kwajalein MH",
+    "country": "Marshall Islands",
+    "gloss": "111"
+  },
+  {
+    "code": "kwaj2",
+    "name": "Kwajalein MH",
+    "location": "Kwajalein MH",
+    "country": "Marshall Islands",
+    "gloss": "111"
+  },
+  {
+    "code": "kwfl",
+    "name": "Key West FL",
+    "location": "Key West FL",
+    "country": "USA",
+    "gloss": "216"
+  },
+  {
+    "code": "LA23",
+    "name": "Lampedusa",
+    "location": "Lampedusa",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "LA38",
+    "name": "La Spezia",
+    "location": "La Spezia",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "lacr",
+    "name": "La Cruz (Jica)",
+    "location": "La Cruz (Jica)",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "lago",
+    "name": "LaGomera",
+    "location": "LaGomera",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "lajo",
+    "name": "La Jolla CA",
+    "location": "La Jolla CA",
+    "country": "USA",
+    "gloss": "159"
+  },
+  {
+    "code": "lajo2",
+    "name": "La Jolla CA",
+    "location": "La Jolla CA",
+    "country": "USA",
+    "gloss": "159"
+  },
+  {
+    "code": "lalb",
+    "name": "La Libertad SV",
+    "location": "La Libertad SV",
+    "country": "El Salvador",
+    "gloss": ""
+  },
+  {
+    "code": "lali",
+    "name": "La Libertad EC",
+    "location": "La Libertad EC",
+    "country": "Ecuador",
+    "gloss": "172"
+  },
+  {
+    "code": "lame",
+    "name": "LameshurBayStJohnVI",
+    "location": "LameshurBayStJohnVI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "lame2",
+    "name": "LameshurBayStJohnVI",
+    "location": "LameshurBayStJohnVI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "LAMSI",
+    "name": "Public Pier of Lamteng, Aceh",
+    "location": "Public Pier of Lamteng, Aceh",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "lamu",
+    "name": "Lamu",
+    "location": "Lamu",
+    "country": "Kenya",
+    "gloss": ""
+  },
+  {
+    "code": "land",
+    "name": "Landsort Norra",
+    "location": "Landsort Norra",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "lang",
+    "name": "Langosteira",
+    "location": "Langosteira",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "lank",
+    "name": "Langkawi",
+    "location": "Langkawi",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "lapa",
+    "name": "LaPalma",
+    "location": "LaPalma",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "larn3",
+    "name": "Larnaka",
+    "location": "Larnaka",
+    "country": "Cyprus",
+    "gloss": ""
+  },
+  {
+    "code": "larp",
+    "name": "La Rochelle-Pallice",
+    "location": "La Rochelle-Pallice",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "larp2",
+    "name": "La Rochelle-Pallice 2",
+    "location": "La Rochelle-Pallice 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "laru2",
+    "name": "Point LaRue",
+    "location": "Point LaRue",
+    "country": "Seychelles",
+    "gloss": "339"
+  },
+  {
+    "code": "lasp",
+    "name": "LasPalmas2",
+    "location": "LasPalmas2",
+    "country": "Spain",
+    "gloss": "251"
+  },
+  {
+    "code": "lata",
+    "name": "Lata Wharf SB",
+    "location": "Lata Wharf SB",
+    "country": "Solomon Islands",
+    "gloss": ""
+  },
+  {
+    "code": "laun",
+    "name": "La Union SV",
+    "location": "La Union SV",
+    "country": "El Salvador",
+    "gloss": ""
+  },
+  {
+    "code": "laza",
+    "name": "Lázaro Cárdenas",
+    "location": "Lázaro Cárdenas",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "laza2",
+    "name": "Lázaro Cárdenas2",
+    "location": "Lázaro Cárdenas2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "lebu",
+    "name": "Lebu",
+    "location": "Lebu",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "lebu2",
+    "name": "Lebu",
+    "location": "Lebu",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "leco",
+    "name": "Le Conquet",
+    "location": "Le Conquet",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "leco2",
+    "name": "Le Conquet 2",
+    "location": "Le Conquet 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "lecy",
+    "name": "Le Crouesty",
+    "location": "Le Crouesty",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "lega",
+    "name": "Legaspi",
+    "location": "Legaspi",
+    "country": "Philippines",
+    "gloss": "72"
+  },
+  {
+    "code": "leha",
+    "name": "Le Havre",
+    "location": "Le Havre",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "leha2",
+    "name": "Le Havre 2",
+    "location": "Le Havre 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "leir",
+    "name": "Leirvik",
+    "location": "Leirvik",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "leit",
+    "name": "Leith",
+    "location": "Leith",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "lekm",
+    "name": "Lefkimmi, Kerkyra, Ionian Islands",
+    "location": "Lefkimmi, Kerkyra, Ionian Islands",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "lemba",
+    "name": "Lembar",
+    "location": "Lembar",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "leme",
+    "name": "Limassol",
+    "location": "Limassol",
+    "country": "Cyprus",
+    "gloss": ""
+  },
+  {
+    "code": "lena",
+    "name": "Lenakel, Tanna",
+    "location": "Lenakel, Tanna",
+    "country": "Vanuatu",
+    "gloss": ""
+  },
+  {
+    "code": "lero",
+    "name": "Le Robert",
+    "location": "Le Robert",
+    "country": "Martinique",
+    "gloss": ""
+  },
+  {
+    "code": "lerw2",
+    "name": "Lerwick2",
+    "location": "Lerwick2",
+    "country": "UK",
+    "gloss": "236"
+  },
+  {
+    "code": "leso",
+    "name": "Les Sables d'Olonne",
+    "location": "Les Sables d'Olonne",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "leso2",
+    "name": "Les Sables d'Olonne 2",
+    "location": "Les Sables d'Olonne 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "levu",
+    "name": "Lautoka FJ",
+    "location": "Lautoka FJ",
+    "country": "Fiji Islands",
+    "gloss": ""
+  },
+  {
+    "code": "lgos",
+    "name": "Lagos",
+    "location": "Lagos",
+    "country": "Portugal",
+    "gloss": ""
+  },
+  {
+    "code": "LI11",
+    "name": "Livorno",
+    "location": "Livorno",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "lifo",
+    "name": "Lifou",
+    "location": "Lifou",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "lifo2",
+    "name": "Lifou 2",
+    "location": "Lifou 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "lime",
+    "name": "Limetree VI",
+    "location": "Limetree VI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "lime2",
+    "name": "Limetree VI",
+    "location": "Limetree VI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "limon",
+    "name": "Limon",
+    "location": "Limon",
+    "country": "Costa Rica",
+    "gloss": ""
+  },
+  {
+    "code": "lirf",
+    "name": "Lihou Reef AU",
+    "location": "Lihou Reef AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "litz",
+    "name": "Litzlitz, Malekula",
+    "location": "Litzlitz, Malekula",
+    "country": "Vanuatu",
+    "gloss": ""
+  },
+  {
+    "code": "live",
+    "name": "Liverpool",
+    "location": "Liverpool",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "live2",
+    "name": "Liverpool",
+    "location": "Liverpool",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "ljus",
+    "name": "Ljusne Orrskarskajen",
+    "location": "Ljusne Orrskarskajen",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "llan",
+    "name": "Llandudno",
+    "location": "Llandudno",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "lobo2",
+    "name": "IsalaLobos,Chiclayo PE",
+    "location": "IsalaLobos,Chiclayo PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "lobos",
+    "name": "IsalaLobos,Chiclayo PE",
+    "location": "IsalaLobos,Chiclayo PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "lomb",
+    "name": "Lombrum Manus Is PG",
+    "location": "Lombrum Manus Is PG",
+    "country": "Papua New Guinea",
+    "gloss": "331"
+  },
+  {
+    "code": "losa",
+    "name": "Los Angeles CA",
+    "location": "Los Angeles CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "lott",
+    "name": "East Cape",
+    "location": "East Cape",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "lowe",
+    "name": "Lowestoft",
+    "location": "Lowestoft",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "lpaz2",
+    "name": "La Paz2",
+    "location": "La Paz2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "lpbc",
+    "name": "Langara Point BC (Henslung Cove)",
+    "location": "Langara Point BC (Henslung Cove)",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "luba",
+    "name": "Lubang",
+    "location": "Lubang",
+    "country": "Philippines",
+    "gloss": ""
+  },
+  {
+    "code": "luga",
+    "name": "Luganville",
+    "location": "Luganville",
+    "country": "Vanuatu",
+    "gloss": ""
+  },
+  {
+    "code": "lund",
+    "name": "Lunde",
+    "location": "Lunde",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "lymg",
+    "name": "Lymington",
+    "location": "Lymington",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "made",
+    "name": "Puerto Madero, Chis.",
+    "location": "Puerto Madero, Chis.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "madry",
+    "name": "Puerto Madryn",
+    "location": "Puerto Madryn",
+    "country": "Argentina",
+    "gloss": "191"
+  },
+  {
+    "code": "maer",
+    "name": "Marmara Ereglisi",
+    "location": "Marmara Ereglisi",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "magi",
+    "name": "Magueyes Island PR",
+    "location": "Magueyes Island PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "magi2",
+    "name": "Magueyes Island PR",
+    "location": "Magueyes Island PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "maha",
+    "name": "Malmo Hamn",
+    "location": "Malmo Hamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "maho",
+    "name": "Mahon",
+    "location": "Mahon",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "mais",
+    "name": "Marion Island",
+    "location": "Marion Island",
+    "country": "South-Africa",
+    "gloss": "20"
+  },
+  {
+    "code": "maji",
+    "name": "Majis",
+    "location": "Majis",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "make",
+    "name": "Makemo (Polynésie française, Tuamotu)",
+    "location": "Makemo (Polynésie française, Tuamotu)",
+    "country": "Polynésie Française",
+    "gloss": "354"
+  },
+  {
+    "code": "mal3",
+    "name": "Malaga",
+    "location": "Malaga",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "mala",
+    "name": "Malakal",
+    "location": "Malakal",
+    "country": "Palau Islands",
+    "gloss": "120"
+  },
+  {
+    "code": "Male2",
+    "name": "Maldive Islands",
+    "location": "Maldive Islands",
+    "country": "Maldive Islands",
+    "gloss": ""
+  },
+  {
+    "code": "malh",
+    "name": "Malin Head",
+    "location": "Malin Head",
+    "country": "Ireland",
+    "gloss": "239"
+  },
+  {
+    "code": "mali",
+    "name": "Malin Head Peninsular",
+    "location": "Malin Head Peninsular",
+    "country": "Ireland",
+    "gloss": "239"
+  },
+  {
+    "code": "malo",
+    "name": "Måløy",
+    "location": "Måløy",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "malp",
+    "name": "Malpelo",
+    "location": "Malpelo",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "malp2",
+    "name": "Malpelo",
+    "location": "Malpelo",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "mane",
+    "name": "Manele Bay",
+    "location": "Manele Bay",
+    "country": "Hawaii",
+    "gloss": ""
+  },
+  {
+    "code": "mang",
+    "name": "Mangalia",
+    "location": "Mangalia",
+    "country": "Romania",
+    "gloss": ""
+  },
+  {
+    "code": "mani",
+    "name": "Manila",
+    "location": "Manila",
+    "country": "Philippines",
+    "gloss": "73"
+  },
+  {
+    "code": "mard",
+    "name": "Marstrand",
+    "location": "Marstrand",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "mare",
+    "name": "Maré (New Caledonia, Loyalty Islands)",
+    "location": "Maré (New Caledonia, Loyalty Islands)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "mare2",
+    "name": "Maré 2 (New Caledonia, Loyalty Islands)",
+    "location": "Maré 2 (New Caledonia, Loyalty Islands)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "mari",
+    "name": "Marin",
+    "location": "Marin",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "marm",
+    "name": "Marmagao",
+    "location": "Marmagao",
+    "country": "India",
+    "gloss": "281"
+  },
+  {
+    "code": "marn1",
+    "name": "Marina El Alamein",
+    "location": "Marina El Alamein",
+    "country": "Egypt",
+    "gloss": ""
+  },
+  {
+    "code": "mars",
+    "name": "Marseille",
+    "location": "Marseille",
+    "country": "France",
+    "gloss": "205"
+  },
+  {
+    "code": "marsh",
+    "name": "Majuro",
+    "location": "Majuro",
+    "country": "Marshall Islands",
+    "gloss": "112"
+  },
+  {
+    "code": "masi2",
+    "name": "Masirah",
+    "location": "Masirah",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "mata",
+    "name": "Matarani,Arequipa PE",
+    "location": "Matarani,Arequipa PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "mata2",
+    "name": "Matarani,Arequipa PE",
+    "location": "Matarani,Arequipa PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "matr",
+    "name": "Marsa Matruh",
+    "location": "Marsa Matruh",
+    "country": "Egypt",
+    "gloss": ""
+  },
+  {
+    "code": "maya",
+    "name": "Mayaguez PR",
+    "location": "Mayaguez PR",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "MC41",
+    "name": "Marina Di Campo",
+    "location": "Marina Di Campo",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "ME13",
+    "name": "Messina",
+    "location": "Messina",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "mehu",
+    "name": "Mehuin",
+    "location": "Mehuin",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "mehu2",
+    "name": "Mehuin",
+    "location": "Mehuin",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "meji",
+    "name": "Mejillones CL",
+    "location": "Mejillones CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "meji2",
+    "name": "Mejillones CL",
+    "location": "Mejillones CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "meli",
+    "name": "Melilla",
+    "location": "Melilla",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "ment",
+    "name": "Mentes",
+    "location": "Mentes",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "mera",
+    "name": "Mera",
+    "location": "Mera",
+    "country": "Japan",
+    "gloss": "86"
+  },
+  {
+    "code": "mfdf",
+    "name": "Vieux Port Fort Dauphin",
+    "location": "Vieux Port Fort Dauphin",
+    "country": "Madagascar",
+    "gloss": ""
+  },
+  {
+    "code": "mhav",
+    "name": "Milford Haven",
+    "location": "Milford Haven",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "midx",
+    "name": "Midway",
+    "location": "Midway",
+    "country": "USA",
+    "gloss": "106"
+  },
+  {
+    "code": "midx2",
+    "name": "Midway",
+    "location": "Midway",
+    "country": "USA",
+    "gloss": "106"
+  },
+  {
+    "code": "mill",
+    "name": "Millport",
+    "location": "Millport",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "milo",
+    "name": "Milolii, Hawaii",
+    "location": "Milolii, Hawaii",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "mimz",
+    "name": "Mimizan",
+    "location": "Mimizan",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "mimz2",
+    "name": "Mimizan 2",
+    "location": "Mimizan 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "mini",
+    "name": "Minicoy",
+    "location": "Minicoy",
+    "country": "India",
+    "gloss": "29"
+  },
+  {
+    "code": "mins",
+    "name": "Minami-Tori-Shima",
+    "location": "Minami-Tori-Shima",
+    "country": "Japan",
+    "gloss": "104"
+  },
+  {
+    "code": "miqu",
+    "name": "Saint Pierre et Miquelon",
+    "location": "Saint Pierre et Miquelon",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "mnkt",
+    "name": "Manukau",
+    "location": "Manukau",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "MNPL",
+    "name": "Monopoli",
+    "location": "Monopoli",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "mnts",
+    "name": "Little Bay",
+    "location": "Little Bay",
+    "country": "Montserrat",
+    "gloss": ""
+  },
+  {
+    "code": "mnza",
+    "name": "Manzanillo",
+    "location": "Manzanillo",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "moku",
+    "name": "Mokuoloe,Oahu",
+    "location": "Mokuoloe,Oahu",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "momb",
+    "name": "Mombasa",
+    "location": "Mombasa",
+    "country": "Kenya",
+    "gloss": "8"
+  },
+  {
+    "code": "mona",
+    "name": "Mona Island PR",
+    "location": "Mona Island PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "mona2",
+    "name": "Mona Island PR",
+    "location": "Mona Island PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "monc",
+    "name": "Monaco, Fontvieille harbour",
+    "location": "Monaco, Fontvieille harbour",
+    "country": "Monaco",
+    "gloss": ""
+  },
+  {
+    "code": "monc2",
+    "name": "Monaco2, Fontvieille harbour",
+    "location": "Monaco2, Fontvieille harbour",
+    "country": "Monaco",
+    "gloss": ""
+  },
+  {
+    "code": "mont",
+    "name": "Monterey",
+    "location": "Monterey",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "mont2",
+    "name": "Monterey",
+    "location": "Monterey",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "mony",
+    "name": "Montauk, NY",
+    "location": "Montauk, NY",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "mony2",
+    "name": "Montauk, NY",
+    "location": "Montauk, NY",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "motr",
+    "name": "Motril2",
+    "location": "Motril2",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "mpaw",
+    "name": "A2",
+    "location": "A2",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "mpcw",
+    "name": "Westhinder",
+    "location": "Westhinder",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "mphw",
+    "name": "Bol van Heist",
+    "location": "Bol van Heist",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "mpsw",
+    "name": "Scheur Wielingen",
+    "location": "Scheur Wielingen",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "mpww",
+    "name": "Wandelaar",
+    "location": "Wandelaar",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "mrig",
+    "name": "Marigot",
+    "location": "Marigot",
+    "country": "Dominica island",
+    "gloss": ""
+  },
+  {
+    "code": "mrms",
+    "name": "Marmaris",
+    "location": "Marmaris",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "MRTMI",
+    "name": "Port of Bere-Bere, North Maluku",
+    "location": "Port of Bere-Bere, North Maluku",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "ms001",
+    "name": "Porto Malai, Langkawi",
+    "location": "Porto Malai, Langkawi",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "ms002",
+    "name": "Kerachut, Penang",
+    "location": "Kerachut, Penang",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "ms003",
+    "name": "Pulau Perak",
+    "location": "Pulau Perak",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "ms004",
+    "name": "Pulau Perhentian",
+    "location": "Pulau Perhentian",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "ms005",
+    "name": "Kudat, Sabah",
+    "location": "Kudat, Sabah",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "ms006",
+    "name": "Lahad Datu, Sabah",
+    "location": "Lahad Datu, Sabah",
+    "country": "Malaysia",
+    "gloss": ""
+  },
+  {
+    "code": "mtul",
+    "name": "Port de Toliara",
+    "location": "Port de Toliara",
+    "country": "Madagascar",
+    "gloss": ""
+  },
+  {
+    "code": "mumb",
+    "name": "Mumbles",
+    "location": "Mumbles",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "murc2",
+    "name": "Murcia",
+    "location": "Murcia",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "musc3",
+    "name": "Muscat",
+    "location": "Muscat",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "myko",
+    "name": "Tourlos, Mykonos Island",
+    "location": "Tourlos, Mykonos Island",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "NA23",
+    "name": "Napoli",
+    "location": "Napoli",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "naga",
+    "name": "Nagasaki",
+    "location": "Nagasaki",
+    "country": "Japan",
+    "gloss": "83"
+  },
+  {
+    "code": "naha",
+    "name": "Naha",
+    "location": "Naha",
+    "country": "Japan",
+    "gloss": "81"
+  },
+  {
+    "code": "naho",
+    "name": "Nahodka",
+    "location": "Nahodka",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "nain",
+    "name": "Nain",
+    "location": "Nain",
+    "country": "Canada",
+    "gloss": "224"
+  },
+  {
+    "code": "napt",
+    "name": "Port Napier",
+    "location": "Port Napier",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "narv",
+    "name": "Narvik",
+    "location": "Narvik",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "nauu",
+    "name": "Nauru",
+    "location": "Nauru",
+    "country": "Nauru",
+    "gloss": ""
+  },
+  {
+    "code": "nawi",
+    "name": "Nawiliwili, Kauai",
+    "location": "Nawiliwili, Kauai",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "nbrt",
+    "name": "New Brighton Pier, Christchurch",
+    "location": "New Brighton Pier, Christchurch",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "ncpt",
+    "name": "North Cape",
+    "location": "North Cape",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "newl2",
+    "name": "Newlyn2",
+    "location": "Newlyn2",
+    "country": "UK",
+    "gloss": "241"
+  },
+  {
+    "code": "newl3",
+    "name": "Newlyn",
+    "location": "Newlyn",
+    "country": "UK",
+    "gloss": "241"
+  },
+  {
+    "code": "nhav",
+    "name": "Newhaven",
+    "location": "Newhaven",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "nhte",
+    "name": "Nehuentue CL",
+    "location": "Nehuentue CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "nice",
+    "name": "Nice",
+    "location": "Nice",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "nice2",
+    "name": "Nice2",
+    "location": "Nice2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "nieu",
+    "name": "Nieuwpoort",
+    "location": "Nieuwpoort",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "nkfa",
+    "name": "Nuku'Alofa Harbour Wharf",
+    "location": "Nuku'Alofa Harbour Wharf",
+    "country": "Tonga Island",
+    "gloss": "125"
+  },
+  {
+    "code": "nkfa2",
+    "name": "Nuku'Alofa Harbour wharf",
+    "location": "Nuku'Alofa Harbour wharf",
+    "country": "Tonga Island",
+    "gloss": "125"
+  },
+  {
+    "code": "nksk",
+    "name": "Nikol'skoe",
+    "location": "Nikol'skoe",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "nome",
+    "name": "Nome AK",
+    "location": "Nome AK",
+    "country": "USA",
+    "gloss": "74"
+  },
+  {
+    "code": "noto",
+    "name": "Noto",
+    "location": "Noto",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "npor",
+    "name": "Newport",
+    "location": "Newport",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "nshi",
+    "name": "North Shields",
+    "location": "North Shields",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "nspi",
+    "name": "North Spit, Humboldt",
+    "location": "North Spit, Humboldt",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "nspi2",
+    "name": "North Spit, Humboldt",
+    "location": "North Spit, Humboldt",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "ntue",
+    "name": "Nehuentue CL",
+    "location": "Nehuentue CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ntue2",
+    "name": "Nehuentue CL",
+    "location": "Nehuentue CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "nuk1",
+    "name": "Nuuk harbour, new",
+    "location": "Nuuk harbour, new",
+    "country": "Greenland",
+    "gloss": "225"
+  },
+  {
+    "code": "nuku",
+    "name": "Nuku Hiva (Marquesas, French Polynesia)",
+    "location": "Nuku Hiva (Marquesas, French Polynesia)",
+    "country": "France",
+    "gloss": "142"
+  },
+  {
+    "code": "numb2",
+    "name": "Nouméa - Numbo (New Caledonia)",
+    "location": "Nouméa - Numbo (New Caledonia)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "numbo",
+    "name": "Nouméa - Numbo (New Caledonia)",
+    "location": "Nouméa - Numbo (New Caledonia)",
+    "country": "France",
+    "gloss": "123"
+  },
+  {
+    "code": "nyal",
+    "name": "Ny Ålesund",
+    "location": "Ny Ålesund",
+    "country": "Norway",
+    "gloss": "345"
+  },
+  {
+    "code": "nyna",
+    "name": "Nynas Fiskehamn",
+    "location": "Nynas Fiskehamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "ofuas",
+    "name": "Ofu",
+    "location": "Ofu",
+    "country": "Samoa",
+    "gloss": ""
+  },
+  {
+    "code": "ofun",
+    "name": "Ofunato",
+    "location": "Ofunato",
+    "country": "Japan",
+    "gloss": "87"
+  },
+  {
+    "code": "ohig",
+    "name": "Base General Bernardo O'Higgins CL",
+    "location": "Base General Bernardo O'Higgins CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ohig3",
+    "name": "Base General Bernardo O'Higgins CL",
+    "location": "Base General Bernardo O'Higgins CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "olan",
+    "name": "Olands norra udde",
+    "location": "Olands norra udde",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "omae",
+    "name": "Omaezaki",
+    "location": "Omaezaki",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "onsa",
+    "name": "Onsala",
+    "location": "Onsala",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "OR24",
+    "name": "Ortona",
+    "location": "Ortona",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "osca",
+    "name": "Oscarsborg",
+    "location": "Oscarsborg",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "oska",
+    "name": "Oskarshamn",
+    "location": "Oskarshamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "oslo",
+    "name": "Oslo",
+    "location": "Oslo",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "oste",
+    "name": "Ostend",
+    "location": "Ostend",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "oste1",
+    "name": "Oostende Haven",
+    "location": "Oostende Haven",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "OT15",
+    "name": "Otranto",
+    "location": "Otranto",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "otat",
+    "name": "Dunedin",
+    "location": "Dunedin",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "ouin",
+    "name": "Ouinne, New Caledonia",
+    "location": "Ouinne, New Caledonia",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ouin2",
+    "name": "Ouinn2, New Caledonia",
+    "location": "Ouinn2, New Caledonia",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ouis",
+    "name": "Ouistreham",
+    "location": "Ouistreham",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ouis2",
+    "name": "Ouistreham 2",
+    "location": "Ouistreham 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ouve",
+    "name": "Ouvea",
+    "location": "Ouvea",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "oxel",
+    "name": "Oxelosund Vinterklasen",
+    "location": "Oxelosund Vinterklasen",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "PA07",
+    "name": "Palermo",
+    "location": "Palermo",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "paak",
+    "name": "Port Alexander AK",
+    "location": "Port Alexander AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "paak2",
+    "name": "Port Alexander",
+    "location": "Port Alexander",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "pada",
+    "name": "Padang",
+    "location": "Padang",
+    "country": "Indonesia",
+    "gloss": "45"
+  },
+  {
+    "code": "pafo",
+    "name": "Pafos",
+    "location": "Pafos",
+    "country": "Cyprus",
+    "gloss": ""
+  },
+  {
+    "code": "pagb",
+    "name": "Pago Bay, Guam",
+    "location": "Pago Bay, Guam",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "pagi",
+    "name": "Puerto Aguirre CL",
+    "location": "Puerto Aguirre CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pagi2",
+    "name": "Puerto Aguire CL",
+    "location": "Puerto Aguire CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pago",
+    "name": "Pago Pago AS",
+    "location": "Pago Pago AS",
+    "country": "Samoa",
+    "gloss": "144"
+  },
+  {
+    "code": "pagx",
+    "name": "Pago Pago AS",
+    "location": "Pago Pago AS",
+    "country": "Samoa",
+    "gloss": "144"
+  },
+  {
+    "code": "pait2",
+    "name": "Paita,Piura PE",
+    "location": "Paita,Piura PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "paita",
+    "name": "Paita,Piura PE",
+    "location": "Paita,Piura PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "palb",
+    "name": "Port Alberni",
+    "location": "Port Alberni",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "pale",
+    "name": "Paleochora, Crete Island",
+    "location": "Paleochora, Crete Island",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "pall",
+    "name": "Port Allen, HI",
+    "location": "Port Allen, HI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "palm",
+    "name": "PalmadeMallorca",
+    "location": "PalmadeMallorca",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "palm1",
+    "name": "Palmeira",
+    "location": "Palmeira",
+    "country": "Cabo Verde",
+    "gloss": "329"
+  },
+  {
+    "code": "pape",
+    "name": "Papeete (Tahiti, French Polynesia)",
+    "location": "Papeete (Tahiti, French Polynesia)",
+    "country": "France",
+    "gloss": "140"
+  },
+  {
+    "code": "pape2",
+    "name": "Papeete (Tahiti, Fare Ute, Shom)",
+    "location": "Papeete (Tahiti, Fare Ute, Shom)",
+    "country": "Polynésie Française",
+    "gloss": ""
+  },
+  {
+    "code": "papo",
+    "name": "Paposo CL",
+    "location": "Paposo CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "papo2",
+    "name": "Paposo CL",
+    "location": "Paposo CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "para1",
+    "name": "Paralimni",
+    "location": "Paralimni",
+    "country": "Cyprus",
+    "gloss": ""
+  },
+  {
+    "code": "parg",
+    "name": "Paranaguá, PR",
+    "location": "Paranaguá, PR",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "pass",
+    "name": "Bungus, Padang, West Sumatra",
+    "location": "Bungus, Padang, West Sumatra",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "pata",
+    "name": "Patache CL",
+    "location": "Patache CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pata2",
+    "name": "Patache CL",
+    "location": "Patache CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "patu",
+    "name": "Puerto Atún - Manta",
+    "location": "Puerto Atún - Manta",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "PAYJI",
+    "name": "Teluk Love, Payangan Beach, East Java",
+    "location": "Teluk Love, Payangan Beach, East Java",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "pbol",
+    "name": "Puerto Bolívar",
+    "location": "Puerto Bolívar",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "pcha",
+    "name": "Puerto Chacabuco CL",
+    "location": "Puerto Chacabuco CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pcha2",
+    "name": "Puerto Chacabuco CL",
+    "location": "Puerto Chacabuco CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pcrt",
+    "name": "Puerto Corinto",
+    "location": "Puerto Corinto",
+    "country": "Nicaragua",
+    "gloss": ""
+  },
+  {
+    "code": "pdas",
+    "name": "Ponta Delgada Azor",
+    "location": "Ponta Delgada Azor",
+    "country": "Portugal",
+    "gloss": "245"
+  },
+  {
+    "code": "PE09",
+    "name": "Porto empedocle",
+    "location": "Porto empedocle",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "pece",
+    "name": "Pecém, CE",
+    "location": "Pecém, CE",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "pedn",
+    "name": "Puerto Eden CL",
+    "location": "Puerto Eden CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pedn2",
+    "name": "Puerto Eden CL",
+    "location": "Puerto Eden CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "peir",
+    "name": "Peiraias",
+    "location": "Peiraias",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "PEISI",
+    "name": "Pier of Pei-pei, West Sumatra",
+    "location": "Pier of Pei-pei, West Sumatra",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "pele",
+    "name": "Peleliu",
+    "location": "Peleliu",
+    "country": "Palau Islands",
+    "gloss": ""
+  },
+  {
+    "code": "penr",
+    "name": "Penrhyn CK",
+    "location": "Penrhyn CK",
+    "country": "Cook Islands",
+    "gloss": "143"
+  },
+  {
+    "code": "petr",
+    "name": "Petropavlovsk",
+    "location": "Petropavlovsk",
+    "country": "Russia",
+    "gloss": "93"
+  },
+  {
+    "code": "pgrau",
+    "name": "Puerto Grau,Tacna PE",
+    "location": "Puerto Grau,Tacna PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "phbc",
+    "name": "Port Hardy",
+    "location": "Port Hardy",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "pich",
+    "name": "Pichidangui CL",
+    "location": "Pichidangui CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pich2",
+    "name": "Pichidangui CL",
+    "location": "Pichidangui CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pisa",
+    "name": "Pisagua CL",
+    "location": "Pisagua CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pisa2",
+    "name": "Pisagua CL",
+    "location": "Pisagua CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pisc2",
+    "name": "Pisco,Ica PE",
+    "location": "Pisco,Ica PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "pisco",
+    "name": "Pisco,Ica PE",
+    "location": "Pisco,Ica PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "pkem",
+    "name": "Port Kembla AU",
+    "location": "Port Kembla AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "PL14",
+    "name": "Palinuro",
+    "location": "Palinuro",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "plat2",
+    "name": "Mar del Plata",
+    "location": "Mar del Plata",
+    "country": "Argentina",
+    "gloss": "192"
+  },
+  {
+    "code": "plim",
+    "name": "Plimmiri, Rhodes, South Aegean",
+    "location": "Plimmiri, Rhodes, South Aegean",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "plmy",
+    "name": "Palmyra Island",
+    "location": "Palmyra Island",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "plop",
+    "name": "Puerto López",
+    "location": "Puerto López",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "plym",
+    "name": "Plymouth",
+    "location": "Plymouth",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "pmel",
+    "name": "Puerto Melinka CL",
+    "location": "Puerto Melinka CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pmel2",
+    "name": "Puerto Melinka CL",
+    "location": "Puerto Melinka CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pmon",
+    "name": "Puerto Montt (Chile)",
+    "location": "Puerto Montt (Chile)",
+    "country": "Chile",
+    "gloss": "178"
+  },
+  {
+    "code": "pmon2",
+    "name": "Puerto Montt (Chile)",
+    "location": "Puerto Montt (Chile)",
+    "country": "Chile",
+    "gloss": "178"
+  },
+  {
+    "code": "pmur",
+    "name": "PtMurat",
+    "location": "PtMurat",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "pnat",
+    "name": "Puerto Natales CL",
+    "location": "Puerto Natales CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pnat2",
+    "name": "Puerto Natales CL",
+    "location": "Puerto Natales CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pnfl",
+    "name": "Pensacola FL",
+    "location": "Pensacola FL",
+    "country": "USA",
+    "gloss": "288"
+  },
+  {
+    "code": "pnfl2",
+    "name": "Pensacola FL",
+    "location": "Pensacola FL",
+    "country": "USA",
+    "gloss": "288"
+  },
+  {
+    "code": "PO40",
+    "name": "Ponza",
+    "location": "Ponza",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "pomo",
+    "name": "Pomos",
+    "location": "Pomos",
+    "country": "Cyprus",
+    "gloss": ""
+  },
+  {
+    "code": "pont",
+    "name": "Pontal do Sul, PR",
+    "location": "Pontal do Sul, PR",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "porl",
+    "name": "Portland AU",
+    "location": "Portland AU",
+    "country": "Australia",
+    "gloss": "55"
+  },
+  {
+    "code": "poro",
+    "name": "Poronajsk",
+    "location": "Poronajsk",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "porp",
+    "name": "Portpatrick",
+    "location": "Portpatrick",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "port",
+    "name": "Port-Bloc",
+    "location": "Port-Bloc",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "port2",
+    "name": "Port-Bloc2",
+    "location": "Port-Bloc2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "posi",
+    "name": "Pos'et",
+    "location": "Pos'et",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "pots",
+    "name": "Puerto Potosi",
+    "location": "Puerto Potosi",
+    "country": "Nicaragua",
+    "gloss": ""
+  },
+  {
+    "code": "prat",
+    "name": "Base Naval Capitan Arturo Prat CL",
+    "location": "Base Naval Capitan Arturo Prat CL",
+    "country": "Chile",
+    "gloss": "189"
+  },
+  {
+    "code": "prat3",
+    "name": "Base Naval Capitan Arturo Prat CL",
+    "location": "Base Naval Capitan Arturo Prat CL",
+    "country": "Chile",
+    "gloss": "189"
+  },
+  {
+    "code": "prba",
+    "name": "Puerto Barrios",
+    "location": "Puerto Barrios",
+    "country": "Guatemala",
+    "gloss": ""
+  },
+  {
+    "code": "prch",
+    "name": "Puerto Champerico",
+    "location": "Puerto Champerico",
+    "country": "Guatemala",
+    "gloss": ""
+  },
+  {
+    "code": "prec",
+    "name": "Le Prêcheur",
+    "location": "Le Prêcheur",
+    "country": "Martinique",
+    "gloss": ""
+  },
+  {
+    "code": "preo",
+    "name": "Preobrazheniye",
+    "location": "Preobrazheniye",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "prev",
+    "name": "Preveza, Epirus",
+    "location": "Preveza, Epirus",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "prev1",
+    "name": "Preveza, Epirus",
+    "location": "Preveza, Epirus",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "pric",
+    "name": "Prickly Bay, Grenada",
+    "location": "Prickly Bay, Grenada",
+    "country": "Grenada",
+    "gloss": ""
+  },
+  {
+    "code": "prig",
+    "name": "Prigi",
+    "location": "Prigi",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "prin2",
+    "name": "Prince Rupert",
+    "location": "Prince Rupert",
+    "country": "Canada",
+    "gloss": "155"
+  },
+  {
+    "code": "prog",
+    "name": "Progreso, Yuc",
+    "location": "Progreso, Yuc",
+    "country": "Mexico",
+    "gloss": "213"
+  },
+  {
+    "code": "prog2",
+    "name": "Progreso, Yuc",
+    "location": "Progreso, Yuc",
+    "country": "Mexico",
+    "gloss": "213"
+  },
+  {
+    "code": "prsj",
+    "name": "Puerto San José",
+    "location": "Puerto San José",
+    "country": "Guatemala",
+    "gloss": ""
+  },
+  {
+    "code": "prud",
+    "name": "Prudhoe Bay AK",
+    "location": "Prudhoe Bay AK",
+    "country": "USA",
+    "gloss": "151"
+  },
+  {
+    "code": "prud2",
+    "name": "Prudhoe Bay AK",
+    "location": "Prudhoe Bay AK",
+    "country": "USA",
+    "gloss": "151"
+  },
+  {
+    "code": "prus",
+    "name": "Portrush",
+    "location": "Portrush",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "psan",
+    "name": "Puerto Sandino",
+    "location": "Puerto Sandino",
+    "country": "Nicaragua",
+    "gloss": ""
+  },
+  {
+    "code": "PSCA",
+    "name": "Pantelleria (Scauri)",
+    "location": "Pantelleria (Scauri)",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "psjs",
+    "name": "Puerto San Juan del Sur",
+    "location": "Puerto San Juan del Sur",
+    "country": "Nicaragua",
+    "gloss": ""
+  },
+  {
+    "code": "psla",
+    "name": "Pilots Station East, SW Pass, LA",
+    "location": "Pilots Station East, SW Pass, LA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "psla2",
+    "name": "Pilots Station East, SW Pass, LA",
+    "location": "Pilots Station East, SW Pass, LA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "pslu",
+    "name": "Port San Luis CA",
+    "location": "Port San Luis CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "pslu2",
+    "name": "Port San Luis CA",
+    "location": "Port San Luis CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "PT17",
+    "name": "Porto Torres",
+    "location": "Porto Torres",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "ptal",
+    "name": "Puerto Aldea CL",
+    "location": "Puerto Aldea CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ptal2",
+    "name": "Puerto Aldea CL",
+    "location": "Puerto Aldea CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ptan",
+    "name": "Puerto Angel",
+    "location": "Puerto Angel",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "ptan2",
+    "name": "Puerto Angel",
+    "location": "Puerto Angel",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "ptar",
+    "name": "Punta Arenas CL",
+    "location": "Punta Arenas CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ptar2",
+    "name": "Punta Arenas CL",
+    "location": "Punta Arenas CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ptbc",
+    "name": "Port-de-Bouc",
+    "location": "Port-de-Bouc",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptbc2",
+    "name": "Port-de-Bouc2",
+    "location": "Port-de-Bouc2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptbl",
+    "name": "Port Blair",
+    "location": "Port Blair",
+    "country": "India",
+    "gloss": "38"
+  },
+  {
+    "code": "ptca",
+    "name": "Punta Cana",
+    "location": "Punta Cana",
+    "country": "Dominican Republic",
+    "gloss": ""
+  },
+  {
+    "code": "ptch",
+    "name": "Punta de Choros CL",
+    "location": "Punta de Choros CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "ptfe",
+    "name": "Port Ferréol",
+    "location": "Port Ferréol",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptfe2",
+    "name": "Port Ferréol 2",
+    "location": "Port Ferréol 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptis",
+    "name": "Port Isaac",
+    "location": "Port Isaac",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "ptln",
+    "name": "Port-La-Nouvelle",
+    "location": "Port-La-Nouvelle",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptln2",
+    "name": "Port-la-Nouvelle 2",
+    "location": "Port-la-Nouvelle 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptlu",
+    "name": "Pt.Louis",
+    "location": "Pt.Louis",
+    "country": "Mauritius",
+    "gloss": "18"
+  },
+  {
+    "code": "ptmd2",
+    "name": "Portsmouth, Dominica",
+    "location": "Portsmouth, Dominica",
+    "country": "Dominica island",
+    "gloss": ""
+  },
+  {
+    "code": "ptme",
+    "name": "Portland ME",
+    "location": "Portland ME",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "ptmt",
+    "name": "Portsmouth",
+    "location": "Portsmouth",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "ptob",
+    "name": "Puerto Bolivar",
+    "location": "Puerto Bolivar",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "ptos2",
+    "name": "Porto de Santana",
+    "location": "Porto de Santana",
+    "country": "Brasil",
+    "gloss": "201"
+  },
+  {
+    "code": "ptpl",
+    "name": "Puerto Plata",
+    "location": "Puerto Plata",
+    "country": "Dominican Republic",
+    "gloss": ""
+  },
+  {
+    "code": "ptpt",
+    "name": "Pointe à Pitre, Guadeloupe",
+    "location": "Pointe à Pitre, Guadeloupe",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptpt2",
+    "name": "Pointe à Pitre, Guadeloupe 2",
+    "location": "Pointe à Pitre, Guadeloupe 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptsc",
+    "name": "Port St. Charles",
+    "location": "Port St. Charles",
+    "country": "Barbados",
+    "gloss": ""
+  },
+  {
+    "code": "ptsp",
+    "name": "Port of Spain",
+    "location": "Port of Spain",
+    "country": "Trinidad & Tobago",
+    "gloss": "203"
+  },
+  {
+    "code": "ptve",
+    "name": "Port-Vendres",
+    "location": "Port-Vendres",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "ptve2",
+    "name": "Port-Vendres2",
+    "location": "Port-Vendres2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "puer2",
+    "name": "Puerto Vallarta2",
+    "location": "Puerto Vallarta2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "puert",
+    "name": "Puerto Vallarta",
+    "location": "Puerto Vallarta",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "pumo",
+    "name": "Puerto Morelos, Q. R.",
+    "location": "Puerto Morelos, Q. R.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "pumo2",
+    "name": "Puerto Morelos",
+    "location": "Puerto Morelos",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "puna",
+    "name": "Puná",
+    "location": "Puná",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "punt",
+    "name": "Puntarenas",
+    "location": "Puntarenas",
+    "country": "Costa Rica",
+    "gloss": ""
+  },
+  {
+    "code": "puyt",
+    "name": "Puysegur Welcome Bay",
+    "location": "Puysegur Welcome Bay",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "pwil",
+    "name": "Puerto Williams CL",
+    "location": "Puerto Williams CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "pwil2",
+    "name": "Puerto Williams CL",
+    "location": "Puerto Williams CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "qaqo",
+    "name": "Qaqortoq, Julianehab",
+    "location": "Qaqortoq, Julianehab",
+    "country": "Greenland",
+    "gloss": "344"
+  },
+  {
+    "code": "qcbc",
+    "name": "Queen Charlotte",
+    "location": "Queen Charlotte",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "qing",
+    "name": "Qinglan",
+    "location": "Qinglan",
+    "country": "China",
+    "gloss": ""
+  },
+  {
+    "code": "qtro",
+    "name": "Quintero CL",
+    "location": "Quintero CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "qtro2",
+    "name": "Quintero CL",
+    "location": "Quintero CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "quar",
+    "name": "Quarry Bay",
+    "location": "Quarry Bay",
+    "country": "Hong Kong - China",
+    "gloss": "77"
+  },
+  {
+    "code": "quel",
+    "name": "Queule CL",
+    "location": "Queule CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "quel2",
+    "name": "Queule CL",
+    "location": "Queule CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "quepo",
+    "name": "Quepos",
+    "location": "Quepos",
+    "country": "Costa Rica",
+    "gloss": "167"
+  },
+  {
+    "code": "quin",
+    "name": "Qui Nhon",
+    "location": "Qui Nhon",
+    "country": "Viet Nam",
+    "gloss": "75"
+  },
+  {
+    "code": "quir",
+    "name": "Quiriquina CL",
+    "location": "Quiriquina CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "quir2",
+    "name": "Quiriquina CL",
+    "location": "Quiriquina CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "Quit",
+    "name": "Quitasueño",
+    "location": "Quitasueño",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "qura",
+    "name": "Qurayat",
+    "location": "Qurayat",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "RA10",
+    "name": "Ravenna",
+    "location": "Ravenna",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "rangi",
+    "name": "Rangiroa Atoll (Tuamotu, French Polynesia)",
+    "location": "Rangiroa Atoll (Tuamotu, French Polynesia)",
+    "country": "France",
+    "gloss": "355"
+  },
+  {
+    "code": "raro",
+    "name": "Rarotonga CK",
+    "location": "Rarotonga CK",
+    "country": "Cook Islands",
+    "gloss": "139"
+  },
+  {
+    "code": "rata",
+    "name": "Ratan",
+    "location": "Ratan",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "rbct",
+    "name": "Raoul Island Boat Cove",
+    "location": "Raoul Island Boat Cove",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "RC09",
+    "name": "Reggio Calabria",
+    "location": "Reggio Calabria",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "RCCL",
+    "name": "Roccella Jonica",
+    "location": "Roccella Jonica",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "reun",
+    "name": "Pointe des Galets (Reunion Island)",
+    "location": "Pointe des Galets (Reunion Island)",
+    "country": "France",
+    "gloss": "17"
+  },
+  {
+    "code": "reun2",
+    "name": "Pointe des Galets (Reunion Island) 2",
+    "location": "Pointe des Galets (Reunion Island) 2",
+    "country": "France",
+    "gloss": "17"
+  },
+  {
+    "code": "reyk",
+    "name": "Reykjavik",
+    "location": "Reykjavik",
+    "country": "Iceland",
+    "gloss": "229"
+  },
+  {
+    "code": "rfrt",
+    "name": "Raoul Island Fishing Rock",
+    "location": "Raoul Island Fishing Rock",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "riba",
+    "name": "São José do Ribamar, MA",
+    "location": "São José do Ribamar, MA",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "rig2",
+    "name": "Rio Grande, RS",
+    "location": "Rio Grande, RS",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "ring",
+    "name": "Ringhals",
+    "location": "Ringhals",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "rodb",
+    "name": "Rodby",
+    "location": "Rodby",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "rodr",
+    "name": "Rodrigues",
+    "location": "Rodrigues",
+    "country": "Mauritius",
+    "gloss": "19"
+  },
+  {
+    "code": "rorv",
+    "name": "Rørvik",
+    "location": "Rørvik",
+    "country": "Norway",
+    "gloss": "234"
+  },
+  {
+    "code": "rosc",
+    "name": "Roscoff",
+    "location": "Roscoff",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "rosc2",
+    "name": "Roscoff 2",
+    "location": "Roscoff 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "rose",
+    "name": "Roseau",
+    "location": "Roseau",
+    "country": "Dominica island",
+    "gloss": ""
+  },
+  {
+    "code": "ross",
+    "name": "Rosslyn Bay AU",
+    "location": "Rosslyn Bay AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "rota",
+    "name": "Rota",
+    "location": "Rota",
+    "country": "Mariana Islands",
+    "gloss": ""
+  },
+  {
+    "code": "rothe",
+    "name": "Rothera",
+    "location": "Rothera",
+    "country": "Antarctica",
+    "gloss": "342"
+  },
+  {
+    "code": "rous",
+    "name": "Ile Rousse",
+    "location": "Ile Rousse",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "rous2",
+    "name": "Ile Rousse2",
+    "location": "Ile Rousse2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "rudn",
+    "name": "Rudnaya Pristan",
+    "location": "Rudnaya Pristan",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "SA16",
+    "name": "Salerno",
+    "location": "Salerno",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "saba",
+    "name": "Sabang",
+    "location": "Sabang",
+    "country": "Indonesia",
+    "gloss": "347"
+  },
+  {
+    "code": "sado",
+    "name": "Sado",
+    "location": "Sado",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "sagu",
+    "name": "Sagunto",
+    "location": "Sagunto",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "saig",
+    "name": "Saigo",
+    "location": "Saigo",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "sain",
+    "name": "Saint-Nazaire",
+    "location": "Saint-Nazaire",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "sain2",
+    "name": "Saint-Nazaire 2",
+    "location": "Saint-Nazaire 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "saip",
+    "name": "Saipan",
+    "location": "Saipan",
+    "country": "Mariana Islands",
+    "gloss": "118"
+  },
+  {
+    "code": "sala",
+    "name": "Salalah",
+    "location": "Salalah",
+    "country": "Oman",
+    "gloss": "4"
+  },
+  {
+    "code": "sala2",
+    "name": "Salaverry,Trujillo PE",
+    "location": "Salaverry,Trujillo PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "salav",
+    "name": "Salaverry,Trujillo PE",
+    "location": "Salaverry,Trujillo PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "sali",
+    "name": "Salina Cruz, Oax.",
+    "location": "Salina Cruz, Oax.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "sali2",
+    "name": "Salina Cruz, Oax.",
+    "location": "Salina Cruz, Oax.",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "salv",
+    "name": "Salvador (Capitania dos Portos da Bahia)",
+    "location": "Salvador (Capitania dos Portos da Bahia)",
+    "country": "Brasil",
+    "gloss": "334"
+  },
+  {
+    "code": "Salv2",
+    "name": "Salvador",
+    "location": "Salvador",
+    "country": "Brasil",
+    "gloss": "334"
+  },
+  {
+    "code": "salv3",
+    "name": "Capitania dos Portos",
+    "location": "Capitania dos Portos",
+    "country": "Brasil",
+    "gloss": "334"
+  },
+  {
+    "code": "san2",
+    "name": "Santander",
+    "location": "Santander",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "sana",
+    "name": "San Andres",
+    "location": "San Andres",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "sand",
+    "name": "San Diego CA",
+    "location": "San Diego CA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "Sandn",
+    "name": "Sandnes",
+    "location": "Sandnes",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "sanf",
+    "name": "San Felix CL",
+    "location": "San Felix CL",
+    "country": "Chile",
+    "gloss": "177"
+  },
+  {
+    "code": "sanf3",
+    "name": "San Felix CL",
+    "location": "San Felix CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "sanj",
+    "name": "San Juan PR",
+    "location": "San Juan PR",
+    "country": "USA",
+    "gloss": "206"
+  },
+  {
+    "code": "sanj2",
+    "name": "San Juan PR",
+    "location": "San Juan PR",
+    "country": "USA",
+    "gloss": "206"
+  },
+  {
+    "code": "sano",
+    "name": "San Antonio CL",
+    "location": "San Antonio CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "sano2",
+    "name": "San Antonio CL",
+    "location": "San Antonio CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "sant",
+    "name": "SantaCruz,Galapagos",
+    "location": "SantaCruz,Galapagos",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "sapz",
+    "name": "Sapzurro",
+    "location": "Sapzurro",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "sapz2",
+    "name": "Sapzurro",
+    "location": "Sapzurro",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "sass",
+    "name": "Sassnitz",
+    "location": "Sassnitz",
+    "country": "Germany",
+    "gloss": ""
+  },
+  {
+    "code": "saum",
+    "name": "Saumlaki",
+    "location": "Saumlaki",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "SB36",
+    "name": "S.Benedetto Del Tronto",
+    "location": "S.Benedetto Del Tronto",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "sbea",
+    "name": "South Beach OR",
+    "location": "South Beach OR",
+    "country": "USA",
+    "gloss": "157"
+  },
+  {
+    "code": "sbea2",
+    "name": "South Beach OR",
+    "location": "South Beach OR",
+    "country": "USA",
+    "gloss": "157"
+  },
+  {
+    "code": "SC43",
+    "name": "Sciacca",
+    "location": "Sciacca",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "sche",
+    "name": "Scheveningen",
+    "location": "Scheveningen",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "scoa",
+    "name": "Socoa",
+    "location": "Socoa",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "scoa2",
+    "name": "Socoa2",
+    "location": "Socoa2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "scor",
+    "name": "Ittoqqortoormiit, Scoresbysund",
+    "location": "Ittoqqortoormiit, Scoresbysund",
+    "country": "Greenland",
+    "gloss": "315"
+  },
+  {
+    "code": "sdom",
+    "name": "Santo Domingo/p.San Andres",
+    "location": "Santo Domingo/p.San Andres",
+    "country": "Dominican Republic",
+    "gloss": ""
+  },
+  {
+    "code": "sdpr",
+    "name": "Sandown Pier",
+    "location": "Sandown Pier",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "sdpt",
+    "name": "Sand Point AK",
+    "location": "Sand Point AK",
+    "country": "USA",
+    "gloss": "100"
+  },
+  {
+    "code": "sdpt2",
+    "name": "Sand Point AK",
+    "location": "Sand Point AK",
+    "country": "USA",
+    "gloss": "100"
+  },
+  {
+    "code": "sema",
+    "name": "Semarang",
+    "location": "Semarang",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "sete",
+    "name": "Sète",
+    "location": "Sète",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "sete2",
+    "name": "Sete 2",
+    "location": "Sete 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "setp1",
+    "name": "Settlement pt",
+    "location": "Settlement pt",
+    "country": "Bahamas",
+    "gloss": "211"
+  },
+  {
+    "code": "sev2",
+    "name": "Sevilla",
+    "location": "Sevilla",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "seve2",
+    "name": "Severo Kurilsk (web)",
+    "location": "Severo Kurilsk (web)",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "sewa",
+    "name": "Seward AK",
+    "location": "Seward AK",
+    "country": "USA",
+    "gloss": "150"
+  },
+  {
+    "code": "sewa2",
+    "name": "Seward AK",
+    "location": "Seward AK",
+    "country": "USA",
+    "gloss": "150"
+  },
+  {
+    "code": "shee",
+    "name": "Sheerness",
+    "location": "Sheerness",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "shee2",
+    "name": "Sheerness",
+    "location": "Sheerness",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "shek",
+    "name": "Shek Pik",
+    "location": "Shek Pik",
+    "country": "Hong Kong - China",
+    "gloss": ""
+  },
+  {
+    "code": "shen",
+    "name": "Shenzhen",
+    "location": "Shenzhen",
+    "country": "China",
+    "gloss": ""
+  },
+  {
+    "code": "sian",
+    "name": "Sian Ka'an",
+    "location": "Sian Ka'an",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "sian2",
+    "name": "Sian Ka'an2",
+    "location": "Sian Ka'an2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "sile",
+    "name": "Sile",
+    "location": "Sile",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "simp",
+    "name": "Simpevarp",
+    "location": "Simpevarp",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "simr",
+    "name": "Simrishamn",
+    "location": "Simrishamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "SIMSI",
+    "name": "Makam Beach, Aceh",
+    "location": "Makam Beach, Aceh",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "sino",
+    "name": "Sinop",
+    "location": "Sinop",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "sipa",
+    "name": "Sipacate",
+    "location": "Sipacate",
+    "country": "Guatemala",
+    "gloss": ""
+  },
+  {
+    "code": "sire",
+    "name": "Sirevåg",
+    "location": "Sirevåg",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "sisa",
+    "name": "Sisal",
+    "location": "Sisal",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "sitk",
+    "name": "Sitka AK",
+    "location": "Sitka AK",
+    "country": "USA",
+    "gloss": "154"
+  },
+  {
+    "code": "sitk2",
+    "name": "Sitka AK",
+    "location": "Sitka AK",
+    "country": "USA",
+    "gloss": "154"
+  },
+  {
+    "code": "SJNO",
+    "name": "São José do Norte, RS",
+    "location": "São José do Norte, RS",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "sjua2",
+    "name": "San Juan de Marcona,Ica PE",
+    "location": "San Juan de Marcona,Ica PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "sjuan",
+    "name": "San Juan de Marcona,Ica PE",
+    "location": "San Juan de Marcona,Ica PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "skagk",
+    "name": "Skagsudde2",
+    "location": "Skagsudde2",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "skan",
+    "name": "Skanor",
+    "location": "Skanor",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "slds",
+    "name": "St. Louis du Sud",
+    "location": "St. Louis du Sud",
+    "country": "Haïti",
+    "gloss": ""
+  },
+  {
+    "code": "slip",
+    "name": "Slipshavn",
+    "location": "Slipshavn",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "slor",
+    "name": "San Lorenzo",
+    "location": "San Lorenzo",
+    "country": "Ecuador",
+    "gloss": ""
+  },
+  {
+    "code": "smag",
+    "name": "Sánchez Magallanes",
+    "location": "Sánchez Magallanes",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "smag2",
+    "name": "Sánchez Magallanes2",
+    "location": "Sánchez Magallanes2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "smar",
+    "name": "Sainte Marie (Reunion island)",
+    "location": "Sainte Marie (Reunion island)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "smar2",
+    "name": "Sainte Marie (Reunion island) 2",
+    "location": "Sainte Marie (Reunion island) 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "SMLE",
+    "name": "Santa Maria di Leuca",
+    "location": "Santa Maria di Leuca",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "smog",
+    "name": "Smogen",
+    "location": "Smogen",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "smth",
+    "name": "Samothraki, East Macedonia and Thrace",
+    "location": "Samothraki, East Macedonia and Thrace",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "sobr",
+    "name": "Sobra",
+    "location": "Sobra",
+    "country": "Croatia",
+    "gloss": ""
+  },
+  {
+    "code": "sola",
+    "name": "Bahia Solano",
+    "location": "Bahia Solano",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "sole",
+    "name": "Solenzara",
+    "location": "Solenzara",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "sole2",
+    "name": "Solenzara2",
+    "location": "Solenzara2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "solo",
+    "name": "Honiara",
+    "location": "Honiara",
+    "country": "Solomon Islands",
+    "gloss": "66"
+  },
+  {
+    "code": "solu",
+    "name": "Solumstrand",
+    "location": "Solumstrand",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "sosu",
+    "name": "Sosunovo",
+    "location": "Sosunovo",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "sove",
+    "name": "Sovetskaja Gavan'",
+    "location": "Sovetskaja Gavan'",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "spik",
+    "name": "Spikarna",
+    "location": "Spikarna",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "spjy",
+    "name": "Southport Jetty AU",
+    "location": "Southport Jetty AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "spmi",
+    "name": "Saint Pierre et Miquelon, Canada",
+    "location": "Saint Pierre et Miquelon, Canada",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "sprg",
+    "name": "Spring Bay AU",
+    "location": "Spring Bay AU",
+    "country": "Australia",
+    "gloss": "56"
+  },
+  {
+    "code": "SRMPI",
+    "name": "Port of Sarmi, Papua",
+    "location": "Port of Sarmi, Papua",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "sscr",
+    "name": "Second Severn Crossing",
+    "location": "Second Severn Crossing",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "ST44",
+    "name": "Strombolicchio",
+    "location": "Strombolicchio",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "stan2",
+    "name": "Stanley",
+    "location": "Stanley",
+    "country": "UK",
+    "gloss": "305"
+  },
+  {
+    "code": "star",
+    "name": "Starodubskoe",
+    "location": "Starodubskoe",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "stari",
+    "name": "Stari Grad",
+    "location": "Stari Grad",
+    "country": "Croatia",
+    "gloss": ""
+  },
+  {
+    "code": "stav",
+    "name": "Stavanger",
+    "location": "Stavanger",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "stcr",
+    "name": "St Croix VI",
+    "location": "St Croix VI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "stcr2",
+    "name": "St Croix VI",
+    "location": "St Croix VI",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "stdpr",
+    "name": "Salinas, Puerto Rico",
+    "location": "Salinas, Puerto Rico",
+    "country": "Puerto Rico",
+    "gloss": ""
+  },
+  {
+    "code": "sten",
+    "name": "Stenungsund",
+    "location": "Stenungsund",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "sthl2",
+    "name": "Saint Helena UK Ruperts Bay",
+    "location": "Saint Helena UK Ruperts Bay",
+    "country": "Saint-Helena",
+    "gloss": "264"
+  },
+  {
+    "code": "sthm",
+    "name": "Stockholm",
+    "location": "Stockholm",
+    "country": "Sweden",
+    "gloss": "341"
+  },
+  {
+    "code": "stjo",
+    "name": "St. Johns",
+    "location": "St. Johns",
+    "country": "Canada",
+    "gloss": "223"
+  },
+  {
+    "code": "stlu",
+    "name": "Ganter's Bay",
+    "location": "Ganter's Bay",
+    "country": "Saint Lucia",
+    "gloss": ""
+  },
+  {
+    "code": "stlu2",
+    "name": "Dennery",
+    "location": "Dennery",
+    "country": "Saint Lucia",
+    "gloss": ""
+  },
+  {
+    "code": "stlu3",
+    "name": "Soufriere",
+    "location": "Soufriere",
+    "country": "Saint Lucia",
+    "gloss": ""
+  },
+  {
+    "code": "stlu4",
+    "name": "Vieux Fort",
+    "location": "Vieux Fort",
+    "country": "Saint Lucia",
+    "gloss": ""
+  },
+  {
+    "code": "stma",
+    "name": "Saint-Malo",
+    "location": "Saint-Malo",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "stma2",
+    "name": "Saint-Malo 2",
+    "location": "Saint-Malo 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "stmr",
+    "name": "St Marys",
+    "location": "St Marys",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "stmt",
+    "name": "Saint Martin Island",
+    "location": "Saint Martin Island",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "stor",
+    "name": "Stornoway",
+    "location": "Stornoway",
+    "country": "UK",
+    "gloss": "238"
+  },
+  {
+    "code": "stqy",
+    "name": "Saint-Quay-Portrieux",
+    "location": "Saint-Quay-Portrieux",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "stqy2",
+    "name": "Saint-Quay-Portrieux 2",
+    "location": "Saint-Quay-Portrieux 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "stro",
+    "name": "Stromoren",
+    "location": "Stromoren",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "subi",
+    "name": "Subic Bay",
+    "location": "Subic Bay",
+    "country": "Philippines",
+    "gloss": ""
+  },
+  {
+    "code": "SUBSI",
+    "name": "Pier of Air Bangis, West Sumatra",
+    "location": "Pier of Air Bangis, West Sumatra",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "sura",
+    "name": "Surabaya",
+    "location": "Surabaya",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "suro",
+    "name": "Sur",
+    "location": "Sur",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "swpr",
+    "name": "Swanage Pier",
+    "location": "Swanage Pier",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "syow",
+    "name": "Syowa",
+    "location": "Syowa",
+    "country": "Antarctica",
+    "gloss": "95"
+  },
+  {
+    "code": "syro",
+    "name": "Syros",
+    "location": "Syros",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "TA18",
+    "name": "Taranto",
+    "location": "Taranto",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "tala2",
+    "name": "Talara,Piura PE",
+    "location": "Talara,Piura PE",
+    "country": "Perú",
+    "gloss": ""
+  },
+  {
+    "code": "talc",
+    "name": "Talcahuano CL",
+    "location": "Talcahuano CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "talc2",
+    "name": "Talcahuano CL",
+    "location": "Talcahuano CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "talt",
+    "name": "Taltal CL",
+    "location": "Taltal CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "talt2",
+    "name": "Taltal CL",
+    "location": "Taltal CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "tame",
+    "name": "Tamandaré, PE",
+    "location": "Tamandaré, PE",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "tang",
+    "name": "Tangudden GBG Hamn",
+    "location": "Tangudden GBG Hamn",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "tanp",
+    "name": "Anping",
+    "location": "Anping",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tara",
+    "name": "Betio,Tarawa",
+    "location": "Betio,Tarawa",
+    "country": "Kiribati",
+    "gloss": "113"
+  },
+  {
+    "code": "tara1",
+    "name": "Taranto",
+    "location": "Taranto",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "tare",
+    "name": "Tarekukure Wharf SB",
+    "location": "Tarekukure Wharf SB",
+    "country": "Solomon Islands",
+    "gloss": ""
+  },
+  {
+    "code": "tari",
+    "name": "Tarifa",
+    "location": "Tarifa",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "tarr",
+    "name": "Tarragona",
+    "location": "Tarragona",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "TASJI",
+    "name": "Baron Beach, Yogyakarta",
+    "location": "Baron Beach, Yogyakarta",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "tasu",
+    "name": "Tasucu",
+    "location": "Tasucu",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "tasw",
+    "name": "Tasiilaq Harbour",
+    "location": "Tasiilaq Harbour",
+    "country": "Greenland",
+    "gloss": ""
+  },
+  {
+    "code": "tauas",
+    "name": "Tau",
+    "location": "Tau",
+    "country": "Samoa",
+    "gloss": ""
+  },
+  {
+    "code": "taut",
+    "name": "Port of Tauranga",
+    "location": "Port of Tauranga",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "tboz",
+    "name": "Bozihlia",
+    "location": "Bozihlia",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "TBSSI",
+    "name": "Talengen Tourism Pier, North Sulawesi",
+    "location": "Talengen Tourism Pier, North Sulawesi",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "tbvi2",
+    "name": "Cane Garden, Tortola",
+    "location": "Cane Garden, Tortola",
+    "country": "British Virgin Islands",
+    "gloss": ""
+  },
+  {
+    "code": "tbwc",
+    "name": "Twofold Bay AU",
+    "location": "Twofold Bay AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "tche",
+    "name": "Chenggong",
+    "location": "Chenggong",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tcim",
+    "name": "Cimei",
+    "location": "Cimei",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tcsb",
+    "name": "Sapodilla Bay, Providenciales",
+    "location": "Sapodilla Bay, Providenciales",
+    "country": "Turks & Caicos Islands",
+    "gloss": ""
+  },
+  {
+    "code": "tdan",
+    "name": "Danhai",
+    "location": "Danhai",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tdas",
+    "name": "Danshuei",
+    "location": "Danshuei",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tdaw",
+    "name": "Dawn",
+    "location": "Dawn",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tdog",
+    "name": "Dongshih",
+    "location": "Dongshih",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tdoj",
+    "name": "Dongjidao",
+    "location": "Dongjidao",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tdon",
+    "name": "Donggang",
+    "location": "Donggang",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tdos",
+    "name": "Dongshadao(Pratas)",
+    "location": "Dongshadao(Pratas)",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "TEDSI",
+    "name": "Port of TPI Teluk Dalam, North Sumatra",
+    "location": "Port of TPI Teluk Dalam, North Sumatra",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "tejn",
+    "name": "Tejn",
+    "location": "Tejn",
+    "country": "Denmark",
+    "gloss": ""
+  },
+  {
+    "code": "telc",
+    "name": "Telchac",
+    "location": "Telchac",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "tema",
+    "name": "Tema",
+    "location": "Tema",
+    "country": "Ghana",
+    "gloss": ""
+  },
+  {
+    "code": "tene",
+    "name": "Tenerife2",
+    "location": "Tenerife2",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "ters",
+    "name": "Terschelling Noordzee",
+    "location": "Terschelling Noordzee",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "TEUL",
+    "name": "Teulada",
+    "location": "Teulada",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "tfan",
+    "name": "Fangliao",
+    "location": "Fangliao",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tfbc",
+    "name": "Tofino BC",
+    "location": "Tofino BC",
+    "country": "Canada",
+    "gloss": "156"
+  },
+  {
+    "code": "tfug",
+    "name": "Fugang",
+    "location": "Fugang",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tful",
+    "name": "Fulong",
+    "location": "Fulong",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "thep",
+    "name": "Heping Port",
+    "location": "Heping Port",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "thev",
+    "name": "Thevenard AU",
+    "location": "Thevenard AU",
+    "country": "Australia",
+    "gloss": "308"
+  },
+  {
+    "code": "thio",
+    "name": "Thio",
+    "location": "Thio",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "Thio2",
+    "name": "Thio 2",
+    "location": "Thio 2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "thou",
+    "name": "Houbihu",
+    "location": "Houbihu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "thsi",
+    "name": "Hsinchu",
+    "location": "Hsinchu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "thua",
+    "name": "Hualien",
+    "location": "Hualien",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "thul",
+    "name": "Thule - Pituffik",
+    "location": "Thule - Pituffik",
+    "country": "Greenland",
+    "gloss": "343"
+  },
+  {
+    "code": "TINI",
+    "name": "Tinian",
+    "location": "Tinian",
+    "country": "Mariana Islands",
+    "gloss": ""
+  },
+  {
+    "code": "tjhu",
+    "name": "Jhuwei",
+    "location": "Jhuwei",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tjia",
+    "name": "Jiangjun",
+    "location": "Jiangjun",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tjib",
+    "name": "Jibei",
+    "location": "Jibei",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tkao",
+    "name": "Kaohsiung",
+    "location": "Kaohsiung",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tkdi",
+    "name": "Takoradi",
+    "location": "Takoradi",
+    "country": "Ghana",
+    "gloss": "335"
+  },
+  {
+    "code": "tkee",
+    "name": "Keelung",
+    "location": "Keelung",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tlan",
+    "name": "Lanyu",
+    "location": "Lanyu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "TLBJI",
+    "name": "KEK Tanjung Lesung, Banten",
+    "location": "KEK Tanjung Lesung, Banten",
+    "country": "Indonesia",
+    "gloss": ""
+  },
+  {
+    "code": "tlia",
+    "name": "Liaoluowan",
+    "location": "Liaoluowan",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tlin",
+    "name": "Linshanbi",
+    "location": "Linshanbi",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tlon",
+    "name": "Longdong",
+    "location": "Longdong",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tluk",
+    "name": "Lukang",
+    "location": "Lukang",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tlyu",
+    "name": "Lyudao",
+    "location": "Lyudao",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tmai",
+    "name": "Mailiao",
+    "location": "Mailiao",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tmat",
+    "name": "Matsu",
+    "location": "Matsu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tnan",
+    "name": "Nansha Taiping Island",
+    "location": "Nansha Taiping Island",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tobe",
+    "name": "Tobermory",
+    "location": "Tobermory",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "toco",
+    "name": "Tocopilla CL",
+    "location": "Tocopilla CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "toco2",
+    "name": "Tocopilla CL",
+    "location": "Tocopilla CL",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "tosa",
+    "name": "Tosashimizu",
+    "location": "Tosashimizu",
+    "country": "Japan",
+    "gloss": ""
+  },
+  {
+    "code": "toul",
+    "name": "Toulon",
+    "location": "Toulon",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "toul2",
+    "name": "Toulon2",
+    "location": "Toulon2",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "toya",
+    "name": "Toyama",
+    "location": "Toyama",
+    "country": "Japan",
+    "gloss": "325"
+  },
+  {
+    "code": "tpen",
+    "name": "Penghu",
+    "location": "Penghu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "TPTT",
+    "name": "Port of Taranaki",
+    "location": "Port of Taranaki",
+    "country": "New Zealand",
+    "gloss": ""
+  },
+  {
+    "code": "TR22",
+    "name": "Trieste",
+    "location": "Trieste",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "trab",
+    "name": "Trabzon",
+    "location": "Trabzon",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "trae",
+    "name": "Træna",
+    "location": "Træna",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "trai",
+    "name": "Tramandaí, RS",
+    "location": "Tramandaí, RS",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "treg",
+    "name": "Tregde",
+    "location": "Tregde",
+    "country": "Norway",
+    "gloss": "321"
+  },
+  {
+    "code": "trin",
+    "name": "Trincomalee",
+    "location": "Trincomalee",
+    "country": "Sri Lanka",
+    "gloss": ""
+  },
+  {
+    "code": "trnz",
+    "name": "Terneuzen",
+    "location": "Terneuzen",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "trom",
+    "name": "Tromsø",
+    "location": "Tromsø",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "tron",
+    "name": "Trondheim",
+    "location": "Trondheim",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "trst",
+    "name": "Torres Strait AU",
+    "location": "Torres Strait AU",
+    "country": "Australia",
+    "gloss": ""
+  },
+  {
+    "code": "tshi",
+    "name": "Shihti",
+    "location": "Shihti",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tshu",
+    "name": "Shueitou",
+    "location": "Shueitou",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tsic",
+    "name": "Sicao",
+    "location": "Sicao",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tsua",
+    "name": "Su-ao",
+    "location": "Su-ao",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tsyu",
+    "name": "Syunguangzuei",
+    "location": "Syunguangzuei",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "ttai",
+    "name": "Taichung Port",
+    "location": "Taichung Port",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tuba",
+    "name": "Imbituba, SC",
+    "location": "Imbituba, SC",
+    "country": "Brasil",
+    "gloss": ""
+  },
+  {
+    "code": "tubua",
+    "name": "Tubuai (Austral Islands - French Polynesia)",
+    "location": "Tubuai (Austral Islands - French Polynesia)",
+    "country": "France",
+    "gloss": "356"
+  },
+  {
+    "code": "tudy",
+    "name": "Port-Tudy (Groix island)",
+    "location": "Port-Tudy (Groix island)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "tumc",
+    "name": "Tumaco",
+    "location": "Tumaco",
+    "country": "Colombia",
+    "gloss": "171"
+  },
+  {
+    "code": "tumc2",
+    "name": "Tumaco",
+    "location": "Tumaco",
+    "country": "Colombia",
+    "gloss": "171"
+  },
+  {
+    "code": "turb",
+    "name": "Turbo",
+    "location": "Turbo",
+    "country": "Colombia",
+    "gloss": ""
+  },
+  {
+    "code": "tuxp",
+    "name": "Tuxpan",
+    "location": "Tuxpan",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "tuxp2",
+    "name": "Tuxpan",
+    "location": "Tuxpan",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "twai",
+    "name": "Waipu",
+    "location": "Waipu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "twun",
+    "name": "Wungang",
+    "location": "Wungang",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "twus",
+    "name": "Wushih",
+    "location": "Wushih",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "txig",
+    "name": "Xiaogang",
+    "location": "Xiaogang",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "txil",
+    "name": "Xiao Liuqiu",
+    "location": "Xiao Liuqiu",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tyon",
+    "name": "Yongan",
+    "location": "Yongan",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "tzha",
+    "name": "ZhangTanLi",
+    "location": "ZhangTanLi",
+    "country": "Taiwan",
+    "gloss": ""
+  },
+  {
+    "code": "UAPO",
+    "name": "Ua Pou (French Polynesia, Marquesas)",
+    "location": "Ua Pou (French Polynesia, Marquesas)",
+    "country": "Polynésie Française",
+    "gloss": ""
+  },
+  {
+    "code": "udde",
+    "name": "Uddevalla",
+    "location": "Uddevalla",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "ugle",
+    "name": "Uglegorsk",
+    "location": "Uglegorsk",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "ulla",
+    "name": "Ullapool",
+    "location": "Ullapool",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "uper",
+    "name": "Upernavik harbour",
+    "location": "Upernavik harbour",
+    "country": "Greenland",
+    "gloss": ""
+  },
+  {
+    "code": "upol",
+    "name": "Apia Upolu WS",
+    "location": "Apia Upolu WS",
+    "country": "Samoa",
+    "gloss": ""
+  },
+  {
+    "code": "ushu",
+    "name": "Ushuaia",
+    "location": "Ushuaia",
+    "country": "Argentina",
+    "gloss": "181"
+  },
+  {
+    "code": "usti",
+    "name": "Ustica",
+    "location": "Ustica",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "vair",
+    "name": "Vairao (Tahiti Island - French Polynesia)",
+    "location": "Vairao (Tahiti Island - French Polynesia)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "vald2",
+    "name": "Valdez AK",
+    "location": "Valdez AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "vale",
+    "name": "Valencia",
+    "location": "Valencia",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "valp",
+    "name": "Valparaiso CL",
+    "location": "Valparaiso CL",
+    "country": "Chile",
+    "gloss": "175"
+  },
+  {
+    "code": "valp2",
+    "name": "Valparaiso CL",
+    "location": "Valparaiso CL",
+    "country": "Chile",
+    "gloss": "175"
+  },
+  {
+    "code": "vanu",
+    "name": "Port Vila",
+    "location": "Port Vila",
+    "country": "Vanuatu",
+    "gloss": "348"
+  },
+  {
+    "code": "varb",
+    "name": "Varberg2",
+    "location": "Varberg2",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "vard",
+    "name": "Vardø",
+    "location": "Vardø",
+    "country": "Norway",
+    "gloss": "323"
+  },
+  {
+    "code": "vasi",
+    "name": "Vasiliki, Lefkada, Ionian Islands",
+    "location": "Vasiliki, Lefkada, Ionian Islands",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "vdva",
+    "name": "Valdivia",
+    "location": "Valdivia",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "vdva2",
+    "name": "Valdivia",
+    "location": "Valdivia",
+    "country": "Chile",
+    "gloss": ""
+  },
+  {
+    "code": "VE19",
+    "name": "Venice",
+    "location": "Venice",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "vera",
+    "name": "Veracruz, Ver.",
+    "location": "Veracruz, Ver.",
+    "country": "Mexico",
+    "gloss": "212"
+  },
+  {
+    "code": "vera2",
+    "name": "Veracruz, Ver.",
+    "location": "Veracruz, Ver.",
+    "country": "Mexico",
+    "gloss": "212"
+  },
+  {
+    "code": "verav",
+    "name": "Veeraval",
+    "location": "Veeraval",
+    "country": "India",
+    "gloss": "31"
+  },
+  {
+    "code": "vern",
+    "name": "Vernadsky - Faraday",
+    "location": "Vernadsky - Faraday",
+    "country": "Antarctica",
+    "gloss": "188"
+  },
+  {
+    "code": "vhbc",
+    "name": "Vancouver Harbor",
+    "location": "Vancouver Harbor",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "VI12",
+    "name": "Vieste",
+    "location": "Vieste",
+    "country": "Italy",
+    "gloss": ""
+  },
+  {
+    "code": "vibc",
+    "name": "Victoria Harbor",
+    "location": "Victoria Harbor",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "vieq",
+    "name": "Vieques PR",
+    "location": "Vieques PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "vieq2",
+    "name": "Vieques PR",
+    "location": "Vieques PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "vig2",
+    "name": "Vigo",
+    "location": "Vigo",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "vike",
+    "name": "Viker",
+    "location": "Viker",
+    "country": "Norway",
+    "gloss": ""
+  },
+  {
+    "code": "vikew",
+    "name": "Viken",
+    "location": "Viken",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "vil2",
+    "name": "Villagarcia",
+    "location": "Villagarcia",
+    "country": "Spain",
+    "gloss": ""
+  },
+  {
+    "code": "vin2",
+    "name": "Vinga2",
+    "location": "Vinga2",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "visb",
+    "name": "Visby",
+    "location": "Visby",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "vish",
+    "name": "Visakhapatnam",
+    "location": "Visakhapatnam",
+    "country": "India",
+    "gloss": "35"
+  },
+  {
+    "code": "viti",
+    "name": "Suva Viti Levu FJ",
+    "location": "Suva Viti Levu FJ",
+    "country": "Fiji Islands",
+    "gloss": "122"
+  },
+  {
+    "code": "vlad",
+    "name": "Vladivostok",
+    "location": "Vladivostok",
+    "country": "Russia",
+    "gloss": ""
+  },
+  {
+    "code": "vlis",
+    "name": "Vlissingen",
+    "location": "Vlissingen",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "vlrn",
+    "name": "Vlakte v/d Raan",
+    "location": "Vlakte v/d Raan",
+    "country": "Netherlands",
+    "gloss": ""
+  },
+  {
+    "code": "vsfb",
+    "name": "Vandenberg Space Force Base",
+    "location": "Vandenberg Space Force Base",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "vung",
+    "name": "Vung Tau",
+    "location": "Vung Tau",
+    "country": "Viet Nam",
+    "gloss": ""
+  },
+  {
+    "code": "vvik",
+    "name": "Vastervik",
+    "location": "Vastervik",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "waian",
+    "name": "Waianae Hbr",
+    "location": "Waianae Hbr",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "waka",
+    "name": "Wakkanai",
+    "location": "Wakkanai",
+    "country": "Japan",
+    "gloss": "324"
+  },
+  {
+    "code": "wake",
+    "name": "Wake US",
+    "location": "Wake US",
+    "country": "USA",
+    "gloss": "105"
+  },
+  {
+    "code": "wake2",
+    "name": "Wake US",
+    "location": "Wake US",
+    "country": "USA",
+    "gloss": "105"
+  },
+  {
+    "code": "wall",
+    "name": "Mata-Utu (Wallis island)",
+    "location": "Mata-Utu (Wallis island)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "wall2",
+    "name": "Mata-Utu 2 (Wallis Island)",
+    "location": "Mata-Utu 2 (Wallis Island)",
+    "country": "France",
+    "gloss": ""
+  },
+  {
+    "code": "warn",
+    "name": "Warnemünde",
+    "location": "Warnemünde",
+    "country": "Germany",
+    "gloss": ""
+  },
+  {
+    "code": "weym",
+    "name": "Weymouth",
+    "location": "Weymouth",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "whbc",
+    "name": "Winter Harbour BC",
+    "location": "Winter Harbour BC",
+    "country": "Canada",
+    "gloss": ""
+  },
+  {
+    "code": "whit",
+    "name": "Whitby",
+    "location": "Whitby",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "wick",
+    "name": "Wick Harbour",
+    "location": "Wick Harbour",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "wlgt",
+    "name": "Wellington",
+    "location": "Wellington",
+    "country": "New Zealand",
+    "gloss": "101"
+  },
+  {
+    "code": "wlms",
+    "name": "Bay Waveland Yacht Club, MS",
+    "location": "Bay Waveland Yacht Club, MS",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "wlms2",
+    "name": "Bay Waveland Yacht Club, MS",
+    "location": "Bay Waveland Yacht Club, MS",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "wood",
+    "name": "Woods Hole, MA",
+    "location": "Woods Hole, MA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "wood2",
+    "name": "Woods Hole, MA",
+    "location": "Woods Hole, MA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "work",
+    "name": "Workington",
+    "location": "Workington",
+    "country": "UK",
+    "gloss": ""
+  },
+  {
+    "code": "wpwa",
+    "name": "Westport, WA",
+    "location": "Westport, WA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "wpwa2",
+    "name": "Westport, WA",
+    "location": "Westport, WA",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "wuda",
+    "name": "Khawr Wudam",
+    "location": "Khawr Wudam",
+    "country": "Oman",
+    "gloss": ""
+  },
+  {
+    "code": "xmas",
+    "name": "Christmas KI",
+    "location": "Christmas KI",
+    "country": "Kiribati",
+    "gloss": "146"
+  },
+  {
+    "code": "yabu",
+    "name": "Yabucoa Harbor, PR",
+    "location": "Yabucoa Harbor, PR",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "yaku",
+    "name": "Yakutat AK",
+    "location": "Yakutat AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "yaku2",
+    "name": "Yakutat AK",
+    "location": "Yakutat AK",
+    "country": "USA",
+    "gloss": ""
+  },
+  {
+    "code": "yalo",
+    "name": "Yalova",
+    "location": "Yalova",
+    "country": "Turkey",
+    "gloss": ""
+  },
+  {
+    "code": "yapi",
+    "name": "Yap Island",
+    "location": "Yap Island",
+    "country": "Micronesia",
+    "gloss": "119"
+  },
+  {
+    "code": "ysta",
+    "name": "Ystad2",
+    "location": "Ystad2",
+    "country": "Sweden",
+    "gloss": ""
+  },
+  {
+    "code": "zhap",
+    "name": "Zhapo",
+    "location": "Zhapo",
+    "country": "China",
+    "gloss": "78"
+  },
+  {
+    "code": "zihu",
+    "name": "Zihuatanejo, Gro",
+    "location": "Zihuatanejo, Gro",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "zihu2",
+    "name": "Zihuatanejo2",
+    "location": "Zihuatanejo2",
+    "country": "Mexico",
+    "gloss": ""
+  },
+  {
+    "code": "zkth1",
+    "name": "Zakynthos, Ionian Islands",
+    "location": "Zakynthos, Ionian Islands",
+    "country": "Greece",
+    "gloss": ""
+  },
+  {
+    "code": "zldw",
+    "name": "Zeebrugge Leopold II dam",
+    "location": "Zeebrugge Leopold II dam",
+    "country": "Belgium",
+    "gloss": ""
+  },
+  {
+    "code": "zwdw",
+    "name": "Zeebrugge Wielingendok",
+    "location": "Zeebrugge Wielingendok",
+    "country": "Belgium",
+    "gloss": ""
+  }
+]
